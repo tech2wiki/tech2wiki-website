@@ -3,9 +3,9 @@ sort: 10000
 ---
 # To-do list
 
-This file describes the activities which need to done to move the content from the old [DokuWiki website](https://tech2wiki.com/obsolete/doku.php) and the current [Wordpress website](https://tech2wiki.com/) into the [GitHub repository](https://github.com/berrydejager/tech2wiki.com/) in a markdown format, see [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+This file describes the activities which need to done to move the content from the old [TECH2WIKI DokuWiki website](https://tech2wiki.com/obsolete/doku.php) and the current [TECH2WIKI Wordpress website](https://tech2wiki.com/) into the [TECH2WIKI GitHub repository]({{ site.repo }}) in a markdown format, see [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-Both the DokuWiki and the Wordpress content need to be evaluated for migration to the 'main' branch of the [Tech2wiki.com GitHub repository](https://github.com/berrydejager/tech2wiki.com/).
+Both the DokuWiki and the Wordpress content need to be evaluated for migration to the 'main' branch of the [TECH2WIKI GitHub repository]({{ site.repo }}).
 
 For the GitHub repository markdown files are used. The end result will be a GitHub/Pages-hosted webpage running on the tech2wiki.com domain.
 
