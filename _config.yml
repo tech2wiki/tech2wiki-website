@@ -1,0 +1,41 @@
+title: TECH2WIKI.COM
+description: Sharing is caring...
+#url: tech2wiki.com
+#baseurl:
+#lang: en
+#direction: ltr
+#highlighter: rouge
+
+#theme: null
+
+#google:
+#  gtag:
+#  adsense:
+
+
+# debug:
+#   compress: true
+#   dist: false
+#   shortcodes: true
+
+readme_index:
+  with_frontmatter: true
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+exclude:
+  - Makefile
+  - CNAME
+  - LICENSE
+  - update.sh
+  - Gemfile
+  - Gemfile.lock
+  - requirements.txt
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - jekyll-rtd-theme.gemspec
