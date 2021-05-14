@@ -16,7 +16,7 @@ To run the Tech2wiki locally on you Windows (virtual) machine additional softwar
 *   [Microsoft Visual Studio Code](https://code.visualstudio.com/docs/?dv=win)
 
 Optional
-*   [Github Pages Markdown Cheatsheet](https://code.berrydejager.com/assets/pdf/markdown-cheatsheet-online.pdf) to peek at while creating content
+*   [Github Pages Markdown Cheatsheet](/assets/pdf/markdown-cheatsheet-online.pdf) to peek at while creating content
 *   [7Zip](https://www.7-zip.org/download.html) for ease of (de)crunching files
 *   [GIMP](https://download.gimp.org/pub/gimp/v2.10/windows/) to beautify the visual content
 
@@ -34,7 +34,7 @@ Optional
 
 Start `cmd.exe`
 
-Navigate in the command line to the cloned copy of the Tech2Wiki repository
+Navigate in the command line to the cloned copy of the [Tech2Wiki repository]({{ site.repo }})
 
 `cd c:\development\tech2wiki.com`
 
