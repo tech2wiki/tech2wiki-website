@@ -1,7 +1,7 @@
 ---
-sort: 200
+sort: 100
 ---
-# Tech 2 Technical Procedures - Holden - Security
+# Security
 
 These technical procedures will guide you through the steps to undertake for accomplishing a certain functional goal.
 
