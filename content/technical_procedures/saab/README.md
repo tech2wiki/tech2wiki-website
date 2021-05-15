@@ -11,7 +11,6 @@ Models supported by the Tech 2
 
 | Brand | Model name | Code name | Years | Diagnostics device |
 | --- | --- | --- | --- | --- |
-
 | SAAB | 900 | 'Classic' | 1978 - 1994 | Tech 2 |
 | SAAB | 900NG | 'New Generation' | 1994 - 1998 | Tech 2 |
 | SAAB | 9000 | | 1986 - 1998  | Tech 2 |
@@ -23,5 +22,7 @@ Models supported by the Tech 2
 | SAAB | 9²x | 
 | SAAB | 9⁴x | 
 | SAAB | 9⁷x | 
+
+## Procedures
 
 {% include list.liquid all=true %}
