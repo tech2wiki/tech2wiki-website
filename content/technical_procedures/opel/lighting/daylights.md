@@ -4,14 +4,13 @@ sort: 100
 
 # Daylights
 
-TIP: To active daylight needed is `CARPASS` for Opel Astra and Opel Zafira to front lights too
 
 ## Requirements
 
 * Tech 2
 * CANdi
 * Opel card
-
+* Car Pass for Opel Astra and Opel Zafira
 ## Procedure
 
 * Select `F0`: Diagnostics
