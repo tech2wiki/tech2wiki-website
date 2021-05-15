@@ -1,5 +1,5 @@
 ---
-sort: 150
+sort: 300
 ---
 # Branching strategy
 

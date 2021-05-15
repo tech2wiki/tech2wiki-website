@@ -1,5 +1,5 @@
 ---
-sort: 500
+sort: 600
 ---
 # Adding images to the articles.
 

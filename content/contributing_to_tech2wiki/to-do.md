@@ -1,5 +1,5 @@
 ---
-sort: 10000
+sort: 900
 ---
 # To-do list
 
