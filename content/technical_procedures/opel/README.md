@@ -1,7 +1,7 @@
 ---
-sort: 114
+sort: 1500
 ---
-# Tech 2 Technical Procedures - Opel
+# Opel
 
 These technical procedures will guide you through the steps to undertake for accomplishing a certain functional goal.
 

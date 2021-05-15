@@ -1,8 +1,8 @@
 ---
-sort: 1100
+sort: 100
 ---
 
-# How to activate daylights on an Opel
+# Daylights
 
 TIP: To active daylight needed is CARPASS For ASTRA and ZAFIRA to front lights too
 
