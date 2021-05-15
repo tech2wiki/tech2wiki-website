@@ -2,6 +2,6 @@
 sort: 300
 ---
 
-# Tech 2 Technical Procedures - Saab - Lights
+# Lighting
 
 {% include list.liquid all=true %}

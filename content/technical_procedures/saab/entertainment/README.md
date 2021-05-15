@@ -2,6 +2,6 @@
 sort: 100
 ---
 
-# Tech 2 Technical Procedures - Saab - Audio
+# Entertainment
 
 {% include list.liquid all=true %}
