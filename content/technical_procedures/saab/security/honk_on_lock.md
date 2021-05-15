@@ -11,7 +11,7 @@ It’s possible to get a confirmation from the car that the car is successfully 
 ### Requirements
 
 * SAAB 9-5 MY98-10 or SAAB 9-3 MY98-02 (& -03 CV)
-* Tech2 (CANDi module for SAAB 9-5 MY06 and newer)
+* Tech 2 (CANDi module for SAAB 9-5 MY06 and newer)
 * SAAB 1XX.000 PCMCIA card
 
 ### Procedure
@@ -28,4 +28,3 @@ It’s possible to get a confirmation from the car that the car is successfully 
 * The value can be set in steps of 5ms.
 * The longer time you choose, the higher the sound of the honk will be.
 * Press `OK to confirm the selected value.
-
