@@ -9,8 +9,8 @@ The {{site.title}} repository is [here]({{ site.repo }}).
 
 ## Article backlog
 
-| Assigned to | Article |
-| --- | --- |
-| [unassigned] | Tech2WIN Info |
-| Berry | Find a solution for the `Tech 2 Locator` (Now a self-servicable-plugin in the old WordPress) |
+| Assigned to | Item | Description |
+| --- | --- | --- |
+| [unassigned] | Tech2WIN Info | |
+| Berry | Investigate 'Tech 2 Locator' alternatives | https://ayastreb.me/jekyll-maps/ |
 ---
