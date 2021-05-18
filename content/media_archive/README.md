@@ -5,6 +5,8 @@ sort: 6000
 
 ## Tech 2 related videos on YouTube
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/l1YeT9a9ZOo" frameborder="0" allowfullscreen></iframe>
+
 [GM Tech 2 Training video 1996](https://youtu.be/l1YeT9a9ZOo)
 
 [How to Install Chevrolet European GlobalTIS](https://youtu.be/k6UI55ZNqeo)
