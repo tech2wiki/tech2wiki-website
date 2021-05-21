@@ -6,12 +6,12 @@ sort: 210
 
 # Calibrating the speedometer
 
-On the SAAB 9-3 (code name 9400, model year 1998-2002 + 2003CV) and 9-5 (code name 9600, model year 1998-2010) the Tech 2 can program the Main Instrument Unit (MIU) with various tire sizes, so the speedometer is more accurate.
+On the SAAB 9-3 (code name 9400, model year 1998-2002 + 2003CV) and 9-5 (code name 9600, model year 1998-2010) the Tech2 can program the Main Instrument Unit (MIU) with various tire sizes, so the speedometer is more accurate.
 
 ## Requirements
 
 * SAAB 9-3 MY98-02/MY03 CV or SAAB 9-5 MY98-MY10
-* Tech 2 (CANDi module for Saab 9-5 MY06 and newer)
+* Tech2 (CANDi module for Saab 9-5 MY06 and newer)
 * SAAB 1XX.000 PCMCIA card
 * Tire size specifications
 Gather tire sizes.

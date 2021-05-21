@@ -5,12 +5,12 @@ sort: 560
 
 ## Enabling Doors & Trunk Lock at Drive off (Saab 9-3 2003-)
 
-If you want your car to automatically lock the doors and the trunk when you drive off, this function can be enabled with Tech 2.
+If you want your car to automatically lock the doors and the trunk when you drive off, this function can be enabled with Tech2.
 
 ### Requirements
 
 * SAAB 9-3 MY03 or newer
-* Tech 2 with CANDi module
+* Tech2 with CANDi module
 * Security Access
 * SAAB 1XX.000 PCMCIA card
 

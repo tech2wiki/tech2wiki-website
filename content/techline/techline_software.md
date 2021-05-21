@@ -3,7 +3,7 @@ sort: 300
 ---
 # Techline software
 
-The Techline terminal is a computer, also referred to as terminal, which runs on Microsoft Windows and has Tech2 software installed. There are various versions of Tech 2 software to work with.
+The Techline terminal is a computer, also referred to as terminal, which runs on Microsoft Windows and has Tech2 software installed. There are various versions of Tech2 software to work with.
 
 ## TIS 2000
 

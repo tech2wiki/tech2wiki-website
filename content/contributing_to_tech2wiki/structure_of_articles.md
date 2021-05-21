@@ -36,15 +36,15 @@ Creating seperate .MD per topic results in a better search result as this is bas
 
 The following chapters are used;
 
-*   Tech 2
-    *   Tech 2 overview
-    *   Tech 2 kit
-    *   Tech 2 sub-components
-    *   Tech 2 adapters and accessories
-    *   Tech 2 power supplies and cables
-    *   Tech 2 PCMCIA kit
-*   Using the Tech 2
-    *   Working with the Tech 2
+*   Tech2
+    *   Tech2 overview
+    *   Tech2 kit
+    *   Tech2 sub-components
+    *   Tech2 adapters and accessories
+    *   Tech2 power supplies and cables
+    *   Tech2 PCMCIA kit
+*   Using the Tech2
+    *   Working with the Tech2
 *   Tech2Win
     *   Tech2Win overview
 *   Working with Tech2Win
@@ -62,10 +62,10 @@ The following chapters are used;
     *   SAAB
     *   Suzuki
     *   Tech2Win
-*   Tech 2 media archive
+*   Tech2 media archive
     *   Youtube links
-    *   Tech 2 PDF Documents
-    *   Tech 2 Image library
+    *   Tech2 PDF Documents
+    *   Tech2 Image library
 *   Contributing to TECH2WIKI.COM
     *   Cloning the repo
     *   Repository file structure

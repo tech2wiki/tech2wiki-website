@@ -13,6 +13,6 @@ sort: 300
 
 [UKSaabs: 900/9000 card](http://www.uksaabs.co.uk/UKS/viewtopic.php?f=2&t=116692)
 
-[Russian blog: Repair/enhance the Tech 2 ](http://diy-tech2.blogspot.com)
+[Russian blog: Repair/enhance the Tech2 ](http://diy-tech2.blogspot.com)
 
 [WOBD2.COM: GM Tech2 User Guide](http://www.wobd2.com/wholesale/gm-tech2.html)

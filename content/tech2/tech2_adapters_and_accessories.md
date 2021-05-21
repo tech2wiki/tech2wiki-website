@@ -1,7 +1,7 @@
 ---
 sort: 400
 ---
-# Tech 2 adapters and accessories
+# Tech2 adapters and accessories
 
 | Part number | Description |
 | --- | --- |

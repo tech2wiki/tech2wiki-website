@@ -5,8 +5,9 @@ sort: 200
 
 | Directory name | Description | 
 | -------------- | ----------- |
-| `/assets/binfiles` | Linear Flash Images for Tech 2 PCMCIA cards |
-| `/assets/documents` | PDF documentation |
-| `/assets/images` | Images for the website |
-| `/assets/tools` | Tool applications for use with the Tech 2 |
-| `/content` | Articles as markdown files as content of the wiki|
+| `/assets/binfiles` | Linear Flash Images for Tech2 PCMCIA cards |
+| `/assets/css` | Website style definitions |
+| `/assets/images` | FavIcons and animated GIF for the website |
+| `/assets/js` | Website javascript |
+| `/assets/tools` | Tool applications for use with the Tech2 |
+| `/content` | Articles as markdown files and pictures; the actual content of the wiki |

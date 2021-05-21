@@ -25,7 +25,7 @@ The writer is a SAAB enthusiast trying to help out other SAAB owners by describi
 In order to deal with the situation for a SAAB 9-5 MY98-2010, following parts and equipment should be present:
 
 * Original key belonging to the car. It is assumed that the user of this tutorial is the owner of the car or is working on the car on behalf of the owner.
-* Tech 2 device (thanks for your support Berry and other fellow SAAB enthusiasts!)
+* Tech2 device (thanks for your support Berry and other fellow SAAB enthusiasts!)
 * New or alternative replacement TWICE unit with same part number
 * Key with transponder (incl. ‘banana’) which should already be married to the replacement TWICE unit from the donor car. If you don’t have this married key, further work is useless I was informed by a SAAB specialist.
 
@@ -34,8 +34,8 @@ Note: *the actual (passive) transponder is in the key, the remote itself is in t
 ### Preparations
 
 Before programming the replacement TWICE, following preparations are recommended:
-* Retrieve DTCs with Tech 2
-* Take your Tech 2 and connect to the mating connector below the steering wheel and read DTCs:
+* Retrieve DTCs with Tech2
+* Take your Tech2 and connect to the mating connector below the steering wheel and read DTCs:
 * Select F0: Diagnostics
 * Select Model year
 * Select SAAB 9-3 or SAAB 9-5
@@ -108,7 +108,7 @@ There are other options as well, which are out of scope for this document though
 
 ### Procedure
 
-The procedure for marrying the TWICE unit and keys involves 2 or 3 steps using Tech 2:
+The procedure for marrying the TWICE unit and keys involves 2 or 3 steps using Tech2:
 
 * Step 1A: Immobilizer
 * Step 1B: Spare parts programming of the replacement TWICE unit
@@ -118,7 +118,7 @@ In case the replacement TWICE unit comes from exactly the same donor car (same p
 
 ### Step 1A: Immobilizer
 
-* Hook up the Tech 2 to the car. Make sure that the battery of the car is okay and that your headlights and other consumers are OFF to prevent any undesired intermediate battery drainage.
+* Hook up the Tech2 to the car. Make sure that the battery of the car is okay and that your headlights and other consumers are OFF to prevent any undesired intermediate battery drainage.
 * Select `F0`: Diagnostics
 * Select Model year
 * Select `SAAB 9-3` or `SAAB 9-5`
@@ -143,7 +143,7 @@ It should now be possible to start the engine and drive the car. Depending on an
 
 ### Step 1B: Spare parts programming of the replacement TWICE unit
 
-* Hook up the Tech 2 to the car, put key in `Ignition ON` position
+* Hook up the Tech2 to the car, put key in `Ignition ON` position
 * Select `F0`: Diagnostics
 * Select Model year
 * Select `SAAB 9-3` or `SAAB 9-5`
@@ -151,7 +151,7 @@ It should now be possible to start the engine and drive the car. Depending on an
 * Select `TWICE` (Theft Warning ICE)
 * Select `F4`: Programming
 * Select `Spare Part Programming`
-* Message appears: `Alarm System Check. Tech 2 will check Siren, Glass Break Sensor and Tilt Sensor presence in the car. Follow the instructions on the screen. Note! If any Sensor or the Siren is disconnected, Tech 2 is not able to detect it.`
+* Message appears: `Alarm System Check. Tech2 will check Siren, Glass Break Sensor and Tilt Sensor presence in the car. Follow the instructions on the screen. Note! If any Sensor or the Siren is disconnected, Tech2 is not able to detect it.`
 * Select `OK`
 * Message appears: `To proceed it is needed to have at least 1 remote learned to the car. To do: Press OK to proceed.`
 * Press `Exit` if no learned remote is available.
@@ -189,5 +189,5 @@ All should work now without any errors.
 ## Step 2: Marrying keys to the new TWICE
 
 * Please follow the steps as described in the other tutorials here.
-* Make sure that all of your other keys and remotes are present before you start the procedure with Tech 2.
+* Make sure that all of your other keys and remotes are present before you start the procedure with Tech2.
 * This may also be a good time to exchange the batteries of the remotes to prevent any future issues.

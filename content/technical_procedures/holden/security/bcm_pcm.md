@@ -8,7 +8,7 @@ Holden VT/VX Installing and Programming a replacement Body Control Module (BCM) 
 When a new BCM or PCM is fitted to a VT or VX Commodore the must be linked before the vehicle will start.
 
 * Install new BCM.
-* Using the Tech 2 select VT/VX Commodore and go to `Body` > `BCM` > `Security` > `Program new key`.
+* Using the Tech2 select VT/VX Commodore and go to `Body` > `BCM` > `Security` > `Program new key`.
 * Press `Enter` and follow the prompts you are then asked to input the BCM six digit security number from the top of the new BCM or from the box it came in
 * Follow the prompts and on screen instructions
 * Once complete, the BCM will remain disarmed.

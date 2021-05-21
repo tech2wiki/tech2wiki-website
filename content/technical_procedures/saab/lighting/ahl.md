@@ -15,7 +15,7 @@ The calibration procedure is done separately for the left and right AHL control 
 ### Requirements
 
 * SAAB 9-5 with Xenon headlights
-* Tech 2 (CANDi module for MY06 and newer)
+* Tech2 (CANDi module for MY06 and newer)
 * SAAB 1XX.000 PCMCIA card
 
 ### Preparations
@@ -44,11 +44,11 @@ Before carrying out the calibration make sure that the following criterias are f
 * Press `Yes` (First make sure that you fulfill the criterias displayed on the screen;
     * "- The vehicle must be put on level ground."
     * "- The vehicle must be no load.")
-* Press `Yes` when the Tech 2 asks "Are you sure?"
-* When Tech 2 says that the calibration was succesful, exit back to the programming menu.
+* Press `Yes` when the Tech2 asks "Are you sure?"
+* When Tech2 says that the calibration was succesful, exit back to the programming menu.
 * Select `3. AHL Right`
 * Select `Calibration`
 * Press `Yes` (First make sure that you fulfill the criterias displayed on the screen;
     * "- The vehicle must be put on level ground."
     * "- The vehicle must be no load.")
-* Press `Yes` when the Tech 2 asks "Are you sure?"
+* Press `Yes` when the Tech2 asks "Are you sure?"

@@ -11,7 +11,7 @@ It’s possible to get a confirmation from the car that the car is successfully 
 ### Requirements
 
 * SAAB 9-5 MY98-10 or SAAB 9-3 MY98-02 (& -03 CV)
-* Tech 2 (CANDi module for SAAB 9-5 MY06 and newer)
+* Tech2 (CANDi module for SAAB 9-5 MY06 and newer)
 * SAAB 1XX.000 PCMCIA card
 
 ### Procedure

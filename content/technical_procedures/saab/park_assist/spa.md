@@ -14,7 +14,7 @@ If you have a SAAB 9-3 with model year 2003 and newer and don’t have an SPA on
 
 * SAAB 9-3 MY03 or newer
 * SAAB Parking Assistance (SPA) Kit
-* Tech 2 with CANDi module
+* Tech2 with CANDi module
 * Security Access
 * SAAB 1XX.000 PCMCIA card
 
@@ -33,5 +33,5 @@ To activate this function you will need security access which can be downloaded 
 * Select `F7`: Add/Remove
 * Select `F3`: Accessories
 * Select `SPA`
-* Select `Add` (If you haven’t downloaded security access from TIS yet, the Tech 2 will prompt you to do)
-* Exit out of the Tech 2, cycle the key OFF and back ON and the function should now be enabled.
+* Select `Add` (If you haven’t downloaded security access from TIS yet, the Tech2 will prompt you to do)
+* Exit out of the Tech2, cycle the key OFF and back ON and the function should now be enabled.

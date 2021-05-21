@@ -3,7 +3,7 @@ sort: 300
 ---
 # Switching between cards
 
-Tech 2 contains two PCMCIA slots for memory cards, only one of them can be active.
+Tech2 contains two PCMCIA slots for memory cards, only one of them can be active.
 
 Current card can be switched using key combination on title screen:
 

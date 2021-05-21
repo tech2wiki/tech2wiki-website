@@ -8,7 +8,7 @@ The Memory Card Explorer, in short MCE, is a versatile application which allows 
 ## Requirements
 
 Required hardware: 
-*   [Supported PCMCIA slot](/content/tech_2_pcmcia/writing_pcmcia_cards/writing_pcmcia_hardware_compatibility.html) in a physical desktop/laptop computer.
+*   [Supported PCMCIA slot](/content/tech2_pcmcia/writing_pcmcia_cards/writing_pcmcia_hardware_compatibility.html) in a physical desktop/laptop computer.
 
 Required software:
 *   Microsoft Windows

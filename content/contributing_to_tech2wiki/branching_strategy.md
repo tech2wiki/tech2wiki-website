@@ -7,7 +7,7 @@ Using a branching strategy allows us to collaborate more easily. Each branch has
 
 ## Creating a branch
 
-When creating a branch use a descriptive name, i.e. `update-todo-list` as this makes sense to others too.
+When creating a branch using a descriptive name, i.e. `update-todo-list` as this makes more sense to others too.
 
 ## Make changes
 

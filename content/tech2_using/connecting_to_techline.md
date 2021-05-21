@@ -3,7 +3,7 @@ sort: 300
 ---
 # Connecting to Techline
 
-The Tech2 can be connected to a computer using the serial (RS-232) connector on your computer. Most modern machines don't have that built-in serial device anymore. In this case you can opt for RS-232 comport add-on card, which could be hard to find. Another alternative would be installing a USB-to-serial adapter cable. Please note that not all USB-to-serial cables work with the Tech2, see: [USB to serial hardware compatibility list](/content/tech_2_hardware_issues/usb_to_serial_adapters.html).
+The Tech2 can be connected to a computer using the serial (RS-232) connector on your computer. Most modern machines don't have that built-in serial device anymore. In this case you can opt for RS-232 comport add-on card, which could be hard to find. Another alternative would be installing a USB-to-serial adapter cable. Please note that not all USB-to-serial cables work with the Tech2, see: [USB to serial hardware compatibility list](/content/tech2_hardware_issues/usb_to_serial_adapters.html).
 
 An external power supply has to be used only when the Tech2 isn't connected and powered via OBD-2. The power supply should only be connected directly to the Tech2 when there is no connection to the car, otherwise the power should be connected closest to the car diagnose connection. This is to make the bus communication stable as possible.
 
@@ -102,7 +102,7 @@ In order to check the communication between de computer and the Tech2 the first 
 
 ## Diagnosing serial connection
 
-First make sure that the [serial Loopback is working](/content/tech_2_hardware_issues/rs232_loopback.html).
+First make sure that the [serial Loopback is working](/content/tech2_hardware_issues/rs232_loopback.html).
 
 As the loop back functionality has passed then move to the next link in the chain.
 USB to serial converter

@@ -3,15 +3,15 @@ sort: 100
 ---
 # Writing PCMCIA using GlobalTIS
 
-GlobalTIS is a computer-based system used for reprogramming software as well as troubleshouting and diagnostics on vehicle control units. GlobalTIS is used through your web browser and requires a compatible version of Java to be able to work correctly. The system requires a hand-held, programmable diagnostic tool, Tech 2, in order to communicate with the vehicle.
+GlobalTIS is a computer-based system used for reprogramming software as well as troubleshouting and diagnostics on vehicle control units. GlobalTIS is used through your web browser and requires a compatible version of Java to be able to work correctly. The system requires a hand-held, programmable diagnostic tool, Tech2, in order to communicate with the vehicle.
 
-GlobalTIS can be used to download new software to your PCMCIA card used in the Tech 2, the process takes around 15 minutes for a 32MB card.
+GlobalTIS can be used to download new software to your PCMCIA card used in the Tech2, the process takes around 15 minutes for a 32MB card.
 
 ## Requirements
 
-*   Tech 2
-*   12V DC adapter as power source for the Tech 2
-*   PCMCIA card inserted to Tech 2
+*   Tech2
+*   12V DC adapter as power source for the Tech2
+*   PCMCIA card inserted to Tech2
 *   COM port, this can be a physical DB9 or a USB to Serial cable, on a desktop/laptop computer.
 *   Microsoft Windows
 *   Java
@@ -19,15 +19,15 @@ GlobalTIS can be used to download new software to your PCMCIA card used in the T
 
 ## Preparations
 
-Install GlobalTIS and make sure that your Tech 2 can communicate with your computer.
+Install GlobalTIS and make sure that your Tech2 can communicate with your computer.
 
 ## Writing a PCMCIA card
 
-Make sure that your Tech 2 is connected to a reliable power source.
+Make sure that your Tech2 is connected to a reliable power source.
 
-Connect your Tech 2 with a serial cable to a serial port on your computer.
+Connect your Tech2 with a serial cable to a serial port on your computer.
 
-Power up the Tech 2 and wait for it to boot to the welcome screen.
+Power up the Tech2 and wait for it to boot to the welcome screen.
 
 Start GlobalTIS.
 
@@ -57,7 +57,7 @@ Select `Custom` and press `Next`.
 
 ![](write_globaltis_04.webp)
 
-GlobalTIS will now establish communication with the Tech 2 initiate the device to test the connection, you will see the following message for a short while:
+GlobalTIS will now establish communication with the Tech2 initiate the device to test the connection, you will see the following message for a short while:
 
 ![](write_globaltis_05.webp)
 
@@ -71,11 +71,11 @@ The software version you have chosen will now be displayed on the right side of 
 
 ![](write_globaltis_07.webp)
 
-GlobalTIS will now establish communication with the Tech 2 and initiate the device again.
+GlobalTIS will now establish communication with the Tech2 and initiate the device again.
 
 ![](write_globaltis_08.webp)
 
-Then GlobalTIS will read the content of the PCMCIA card inserted to the Tech 2.
+Then GlobalTIS will read the content of the PCMCIA card inserted to the Tech2.
 
 ![](write_globaltis_08.webp)
 
@@ -83,7 +83,7 @@ GlobalTIS will now start to erase the content on the PCMCIA card.
 
 ![](write_globaltis_09.webp)
 
-During the process the Tech 2 will show the following screen:
+During the process the Tech2 will show the following screen:
 
 ![](write_globaltis_10.webp)
 
@@ -95,4 +95,4 @@ When the downloading/writing process is finished you will see the following scre
 
 ![](write_globaltis_12.webp)
 
-The new software have now been written to your PCMCIA card, you can click `Close` and disconnect the Tech 2 from your computer.
+The new software have now been written to your PCMCIA card, you can click `Close` and disconnect the Tech2 from your computer.

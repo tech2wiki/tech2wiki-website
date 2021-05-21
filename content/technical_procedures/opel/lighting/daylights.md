@@ -7,7 +7,7 @@ sort: 100
 
 ## Requirements
 
-* Tech 2
+* Tech2
 * CANdi
 * Opel card
 * Car Pass for Opel Astra and Opel Zafira

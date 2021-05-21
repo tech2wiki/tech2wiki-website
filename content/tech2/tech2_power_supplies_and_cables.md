@@ -1,11 +1,11 @@
 ---
 sort: 500
 ---
-# Tech 2 power supplies and cables
+# Tech2 power supplies and cables
 
 | Part number | Power accessory |
 | --- | --- | 
-| 3000094 | GM Tech 2 Unit |
+| 3000094 | GM Tech2 Unit |
 | 3000113 | NAO power supply |
 | 3000115 | Universal power supply \* |
 | 3000141 | NAO power cable UL 125-127 volts AC / 10 amps |

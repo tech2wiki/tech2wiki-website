@@ -6,12 +6,12 @@ sort: 540
 
 ## Change Unlock Logic (Saab 9-3 2003-)
 
-With the Tech 2 it is possible to change the unlock logic for your car (what happens when you press the Unlock button on your key once)
+With the Tech2 it is possible to change the unlock logic for your car (what happens when you press the Unlock button on your key once)
 
 ### Requirements
 
 * SAAB 9-3 MY03 or newer
-* Tech 2 with CANDi module
+* Tech2 with CANDi module
 * Security Access
 * SAAB 1XX.000 PCMCIA card
 

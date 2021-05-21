@@ -2,13 +2,13 @@
 sort: 100
 ---
 # VDI module malfunctioning
- Some Tech 2 devices may fail by randomly not connecting to the vehicle. The Tech 2 would display `No communications with vehicle` `Check Diagnostic Link Connector`. This could be a sign of a malfunctioning VCI module.
+ Some Tech2 devices may fail by randomly not connecting to the vehicle. The Tech2 would display `No communications with vehicle` `Check Diagnostic Link Connector`. This could be a sign of a malfunctioning VCI module.
 
 It appears that not all VCI modules are manufactured on the same quality level. 
 
 [![](faulty_vci_vcifail1_thumb.jpg)](faulty_vci_vcifail1.jpg)
 
-This Tech 2 has a faulty VCI module. 
+This Tech2 has a faulty VCI module. 
 
 [![](faulty_vci_vcifail2_thumb.jpg)](faulty_vci_vcifail2.jpg)
 
@@ -49,6 +49,6 @@ Aside from this the OBD connector may also be the root cause of communication ma
 
 ## Be careful when purchasing
 
-Just a warning, be careful when you purchase these. In my experience, even though the seller offered a 3 year warranty, once the item was paid for, and the transaction completed, he did not respond to messages through email or even through the purchasing site. I had to purchase the new VCI if I wanted my Tech 2 to work, so I went with another vendor, and looked for one that had the markings I showed above. I can't guarantee that if you order the “qc” model VCI that you will get the higher quality one, only that this worked for me.
+Just a warning, be careful when you purchase these. In my experience, even though the seller offered a 3 year warranty, once the item was paid for, and the transaction completed, he did not respond to messages through email or even through the purchasing site. I had to purchase the new VCI if I wanted my Tech2 to work, so I went with another vendor, and looked for one that had the markings I showed above. I can't guarantee that if you order the “qc” model VCI that you will get the higher quality one, only that this worked for me.
 
 Thank the [SaabCentral.com](http://www.saabcentral.com) for being the source information.

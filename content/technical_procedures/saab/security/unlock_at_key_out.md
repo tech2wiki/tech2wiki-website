@@ -6,12 +6,12 @@ sort: 570
 
 ## Enabling Doors & Trunk Unlock at Key out (Saab 9-3 2003-)
 
-If you want your car to automatically unlock the doors and the trunk when you take out the key from the ignition lock, this function can be enabled with Tech 2.
+If you want your car to automatically unlock the doors and the trunk when you take out the key from the ignition lock, this function can be enabled with Tech2.
 
 ### Requirements
 
 * SAAB 9-3 MY03 or newer
-* Tech 2 with CANDi module
+* Tech2 with CANDi module
 * Security Access
 * SAAB 1XX.000 PCMCIA card
 

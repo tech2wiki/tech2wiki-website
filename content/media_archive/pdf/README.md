@@ -9,4 +9,4 @@ sort: 400
 
 [GM - TIS2WEB Error codes and solutions](gm_tis2web_error_codes_and_solutions.pdf)
 
-[Vetronix - Tech 2 User's guide](vetronix_tech2_users_guide.pdf)
+[Vetronix - Tech2 User's guide](vetronix_tech2_users_guide.pdf)

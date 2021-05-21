@@ -9,7 +9,7 @@ This section maps out the installation of the GlobalTIS
 
 GlobalTIS is manufactured by General Motors Europe
 
-GlobalTIS is the predecessor of the TIS2000 software. This software can be used in combination with the Tech 2 device.
+GlobalTIS is the predecessor of the TIS2000 software. This software can be used in combination with the Tech2 device.
 
 ## Requirements minimum
 

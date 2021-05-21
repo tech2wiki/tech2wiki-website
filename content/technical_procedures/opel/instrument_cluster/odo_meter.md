@@ -8,7 +8,7 @@ sort: 100
 
 Tech2 interface to check odo-meter/mileage value as saved in ECU.
 
-To check this you need Tech 2 with Opel CARD and CANdi.
+To check this you need Tech2 with Opel CARD and CANdi.
 
 ## Checking step by step
 
@@ -28,6 +28,6 @@ To check this you need Tech 2 with Opel CARD and CANdi.
 
 * Select `F3`: Check Odometer value”
 
-* Tech 2 searches now IPC and ECU and the Tech 2 will show two values on the screen.
+* Tech2 searches now IPC and ECU and the Tech2 will show two values on the screen.
 
 * Now you can compare values.

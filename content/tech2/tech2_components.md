@@ -1,9 +1,9 @@
 ---
-sort: 100
+sort: 200
 ---
-# Tech 2 overview
+# Tech2 components
 
-Internally the Tech 2 is comprised of the following components:
+Internally the Tech2 is comprised of the following components:
 
 * CPU: MC68332 processor
 * External RAM \(Random Access Memory\)
@@ -14,4 +14,3 @@ Internally the Tech 2 is comprised of the following components:
 * Real-time clock
 * Keypad controller and keypad
 * Main UART \(Universal Asynchronous Receiver/Transmitter\)
-

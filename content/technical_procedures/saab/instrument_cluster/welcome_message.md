@@ -9,7 +9,7 @@ If you have a Saab 9-3 Turbo X (2008) you have the option to have a personalized
 ## Requirements
 
 * SAAB 9-3 Turbo X MY08
-* Tech 2 with CANDi module
+* Tech2 with CANDi module
 * Security Access
 * SAAB 1XX.000 PCMCIA card
 

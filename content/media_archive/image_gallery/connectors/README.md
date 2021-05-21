@@ -5,6 +5,6 @@ sort: 300
 
 Click on an image for a larger view
 
-[![](connectors_01_t.jpg)](connectors_01.png){:target="_blank"}
-[![](connectors_02_t.jpg)](connectors_02.png){:target="_blank"}
-[![](connectors_03_t.jpg)](connectors_03.png){:target="_blank"}
+[![](tech2_connectors_01_t.jpg)](tech2_connectors_01.png){:target="_blank"}
+[![](tech2_connectors_02_t.jpg)](tech2_connectors_02.png){:target="_blank"}
+[![](tech2_connectors_03_t.jpg)](tech2_connectors_03.png){:target="_blank"}
