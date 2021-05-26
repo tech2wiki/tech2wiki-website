@@ -31,8 +31,6 @@ Example:
 ---
 ## Predefined configs
 
-{{ site.repo }}raw/main/assets/binfiles/tech2win_card_
-
 | Tech2WIN .bin file(s)    | Configuration file    |
 | ---                   | ---                   |
 | [GM NAO v33.004 English]({{ site.repo }}raw/main/assets/binfiles/tech2win_card_gm_nao_v33.004_en.zip) | [tech2win_config_gm_nao_v33.004_en.conf](tech2win_config_gm_nao_v33.004_en.zip) |
