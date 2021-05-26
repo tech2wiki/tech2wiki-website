@@ -28,24 +28,28 @@ Example:
     -KP R
     -KPBKC FFFFFF
 
+---
 ## Predefined configs
+
+{{ site.repo }}raw/main/assets/binfiles/tech2win_card_
 
 | Tech2WIN .bin file(s)    | Configuration file    |
 | ---                   | ---                   |
-| [GM NAO](/content/tech2_pcmcia/available_tech2win_.bin-files/tech2win_gm_nao.md) | [tech2win_config_gm_nao_v33.004_en.conf](tech2win_config_gm_nao_v33.004_en.zip) |
-| [Holden](/content/tech2_pcmcia/available_tech2win_.bin-files/tech2win_holden.md) | [tech2win_config_holden_1997-2012_v157.000_en.conf](tech2win_config_holden_1997-2012_v157.000_en.zip) |
-| [Holden](/content/tech2_pcmcia/available_tech2win_.bin-files/tech2win_holden.md) | [tech2win_config_holden_export_v149.000_en.conf](tech2win_config_holden_export_v149.000_en.zip) |
-| [Initial software](/content/tech2_pcmcia/available_tech2win_.bin-files/tech2win_initial_software.md) | [tech2win_config_initial_software_v15.100_en.conf](tech2win_config_initial_software_v15.100_en.zip) |
-| [NAO](/content/tech2_pcmcia/available_tech2win_.bin-files/tech2win_nao.md) | [tech2win_config_nao_v33.008_en.conf](tech2win_config_nao_v33.008_en.zip) |
-| [Opel GT / Chevrolet / HHR](/content/tech2_pcmcia/available_tech2win_.bin-files/tech2win_opel_gt_chevrolet_hhr.md) | [tech2win_config_opel_gt_chevrolet_hhr_v30.004_en.conf](tech2win_config_opel_gt_chevrolet_hhr_v30.004_en.zip) |
-| [Opel / Vauxhall](/content/tech2_pcmcia/available_tech2win_.bin-files/tech2win_opel_vauxhall.md) | [tech2win_config_opel_vauxhall_v166.000_en.conf](tech2win_config_opel_vauxhall_v166.000_en.zip) |
-| [SAAB NAO](/content/tech2_pcmcia/available_tech2win_.bin-files/tech2win_saab.md) | [tech2win_config_saab_nao_v9.250_en.conf](tech2win_config_saab_nao_v9.250_en.zip) |
-| [SAAB](/content/tech2_pcmcia/available_tech2win_.bin-files/tech2win_saab_nao.md)  | [tech2win_config_saab_v140.500_ru.conf](tech2win_config_saab_v140.500_ru.zip) |
-| [SAAB](/content/tech2_pcmcia/available_tech2win_.bin-files/tech2win_saab_nao.md) | [tech2win_config_saab_v148.000_en.conf](tech2win_config_saab_v148.000_en.zip) |
-| [Saturn Astra](/content/tech2_pcmcia/available_tech2win_.bin-files/tech2win_saturn_astra.md) | [tech2win_config_saturn_astra_v31.001.conf](tech2win_config_saturn_astra_v31.001.zip) |
+| [GM NAO v33.004 English]({{ site.repo }}raw/main/assets/binfiles/tech2win_card_gm_nao_v33.004_en.zip) | [tech2win_config_gm_nao_v33.004_en.conf](tech2win_config_gm_nao_v33.004_en.zip) |
+| [Holden 1997-2012 v157.000 English]({{ site.repo }}raw/main/assets/binfiles/tech2win_card__holden_1997-2012_v157.000_en.zip) | [tech2win_config_holden_1997-2012_v157.000_en.conf](tech2win_config_holden_1997-2012_v157.000_en.zip) |
+| [Holden Export v149.000 English]({{ site.repo }}raw/main/assets/binfiles/tech2win_card_holden_export_v149.000_en.zip) | [tech2win_config_holden_export_v149.000_en.conf](tech2win_config_holden_export_v149.000_en.zip) |
+| [Initial software]({{ site.repo }}raw/main/assets/binfiles/tech2win_card_initial_software_v15.100_en.zip) | [tech2win_config_initial_software_v15.100_en.conf](tech2win_config_initial_software_v15.100_en.zip) |
+| [NAO v33.008 English]({{ site.repo }}raw/main/assets/binfiles/tech2win_card_nao_v33.008_en.zip) | [tech2win_config_nao_v33.008_en.conf](tech2win_config_nao_v33.008_en.zip) |
+| [Opel GT / Chevrolet / HHR v30.004 English]({{ site.repo }}raw/main/assets/binfiles/tech2win_card_opel_gt_chevrolet_hhr_v30.004_en.zip) | [tech2win_config_opel_gt_chevrolet_hhr_v30.004_en.conf](tech2win_config_opel_gt_chevrolet_hhr_v30.004_en.zip) |
+| [Opel / Vauxhall v166.000 English]({{ site.repo }}raw/main/assets/binfiles/tech2win_card_opel_vauxhall_v166.000_en.zip) | [tech2win_config_opel_vauxhall_v166.000_en.conf](tech2win_config_opel_vauxhall_v166.000_en.zip) |
+| [SAAB NAO v9.250 English]({{ site.repo }}raw/main/assets/binfiles/tech2win_card_saab_nao_v9.250_en.zip) | [tech2win_config_saab_nao_v9.250_en.conf](tech2win_config_saab_nao_v9.250_en.zip) |
+| [SAAB v140.500 Russian]({{ site.repo }}raw/main/assets/binfiles/tech2win_card_saab_v140.500_ru.zip)  | [tech2win_config_saab_v140.500_ru.conf](tech2win_config_saab_v140.500_ru.zip) |
+| [SAAB v148.000 English]({{ site.repo }}raw/main/assets/binfiles/tech2win_card_saab_v148.000_en.zip) | [tech2win_config_saab_v148.000_en.conf](tech2win_config_saab_v148.000_en.zip) |
+| [Saturn Astra v31.001 English]({{ site.repo }}raw/main/assets/binfiles/tech2win_card_saturn_astra_v31.001.zip) | [tech2win_config_saturn_astra_v31.001.conf](tech2win_config_saturn_astra_v31.001.zip) |
 
+---
 ## Location of .bin-files
 
 In this case; the location where Tech2WIN expects the .bin-files to reside is `C:\Users\Public\General Motors\Tech2Win\pcmcia\`.
 
-{% include list.liquid all=true %}
+---
