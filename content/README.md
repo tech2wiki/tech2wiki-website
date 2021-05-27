@@ -1,7 +1,7 @@
 ---
 sort: 1
 ---
-# What is Tech2?
+# What is a Tech2?
 
 The Tech2 is a scanning device which is able to let you deep dive into the internals of the various systems in your vehicle. While generic scanners can show and decode error codes, the Tech2 has the ability to get into the details of the error. Also the Tech2 is able to set brand/type specific settings. The Tech2 is not a engine tuning tool but is able to give you good insights on the status of the car. 
 

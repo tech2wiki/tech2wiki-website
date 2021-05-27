@@ -1,5 +1,5 @@
 ---
-sort: 400
+sort: 200
 ---
 # Keypad self test
 

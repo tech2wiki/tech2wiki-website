@@ -1,5 +1,5 @@
 ---
-sort: 400
+sort: 100
 ---
 # Tech2 self test
 

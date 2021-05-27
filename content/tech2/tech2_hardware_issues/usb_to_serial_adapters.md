@@ -1,7 +1,7 @@
 ---
-sort: 100
+sort: 600
 ---
-# USB to serial hardware compatibility list
+# USB2Serial compatibility list
 
 Please use [USBDeview](/tools/usb_deview_v2.52.zip) from [Nirsoft](http://www.nirsoft.net/) to determine the details of your USB to Serial adapter.
 
