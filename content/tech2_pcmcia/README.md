@@ -1,5 +1,5 @@
 ---
-sort: 300
+sort: 400
 ---
 
 # Tech2 PCMCIA cards
