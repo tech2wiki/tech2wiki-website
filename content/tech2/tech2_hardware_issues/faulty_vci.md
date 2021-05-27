@@ -1,5 +1,5 @@
 ---
-sort: 100
+sort: 500
 ---
 # VDI module malfunctioning
  Some Tech2 devices may fail by randomly not connecting to the vehicle. The Tech2 would display `No communications with vehicle` `Check Diagnostic Link Connector`. This could be a sign of a malfunctioning VCI module.

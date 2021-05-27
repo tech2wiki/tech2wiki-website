@@ -1,5 +1,5 @@
 ---
-sort: 400
+sort: 300
 ---
 # RS232 self test
 

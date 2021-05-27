@@ -1,7 +1,7 @@
 ---
-sort: 300
+sort: 400
 ---
-# RS-232 Loopback plug not connected
+# RS-232 Loopback plug
 
  When you have inserted the RS-232 plug first make sure that the RS-232 is functioning according to the specification.
 
