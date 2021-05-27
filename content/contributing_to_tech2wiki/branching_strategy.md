@@ -3,11 +3,11 @@ sort: 300
 ---
 # Branching strategy
 
-Using a branching strategy allows us to collaborate more easily. Each branch has a specific purpose, for example adding an article describing a specific topic. 
+Using a branching strategy allows us to collaborate more easily. Each branch can a specific purpose or you can use a named branch, for example 'Tech2Win' or 'Berry'. 
 
 ## Creating a branch
 
-When creating a branch using a descriptive name, i.e. `update-todo-list` as this makes more sense to others too.
+When creating a feature branch using a descriptive name, i.e. `update-todo-list`, as this makes more sense to others too.
 
 ## Make changes
 
