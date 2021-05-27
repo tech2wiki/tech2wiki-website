@@ -1,5 +1,5 @@
 ---
-sort: 100
+sort: 300
 ---
 
 # Writing PCMCIA cards

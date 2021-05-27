@@ -1,6 +1,7 @@
 ---
-sort: 100
+sort: 200
 ---
-# Installing
+
+# PCMCIA slot compatibility
 
 {% include list.liquid all=true %}
