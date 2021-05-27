@@ -1,5 +1,5 @@
 ---
-sort: 300
+sort: 100
 ---
 # Switching between cards
 

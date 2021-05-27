@@ -1,12 +1,6 @@
 ---
 sort: 500
 ---
-# PCMCIA hardware compatibility
-
-Which hardware can write PCMCIA linear flash cards
-
-In order to write PCMCIA Linear Flash cards you need specific computer hardware. In the summary below you may find working and non-working hardware. This will make your choice of hardware easier.
-
 # Working hardware configurations
 
 | Manufacturer | Model | Chipset | Status |
