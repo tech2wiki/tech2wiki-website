@@ -1,5 +1,5 @@
 ---
-sort: 200
+sort: 300
 ---
 # Installing TIS2000
 
