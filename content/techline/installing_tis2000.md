@@ -5,9 +5,9 @@ sort: 200
 
 This section maps out the installation of the TIS2000.
 
-## Description
+## Procedure
 
-* Obtain the TIS2000 installatio files.
+* Obtain the TIS2000 installation files.
 * Navigate to the `\TIS2000\Saab TIS2000 2.2008\cosids` directory.
 * Run SETUP.EXE.
   * Choose your language.

@@ -1,6 +1,7 @@
 ---
 sort: 100
 ---
-# Installing
+
+# Card compatibility
 
 {% include list.liquid all=true %}

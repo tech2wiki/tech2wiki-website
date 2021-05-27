@@ -1,7 +1,7 @@
 ---
-sort: 200
+sort: 500
 ---
-# Writing PCMCIA hardware compatibility
+# PCMCIA hardware compatibility
 
 Which hardware can write PCMCIA linear flash cards
 

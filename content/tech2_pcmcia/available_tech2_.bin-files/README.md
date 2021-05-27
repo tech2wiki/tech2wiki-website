@@ -1,5 +1,5 @@
 ---
-sort: 800
+sort: 400
 ---
 
 # Available Tech2 .bin files
