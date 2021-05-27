@@ -1,13 +1,7 @@
 ---
-sort: 600
+sort: 100
 ---
-# USB2Serial compatibility list
-
-Please use [USBDeview](/tools/usb_deview_v2.52.zip) from [Nirsoft](http://www.nirsoft.net/) to determine the details of your USB to Serial adapter.
-
----
-
-## Working
+# Working
 
 | Manufacturer | Model | Chipset | Driver | Status |
 | --- | --- | --- | --- | --- |
@@ -21,21 +15,3 @@ Please use [USBDeview](/tools/usb_deview_v2.52.zip) from [Nirsoft](http://www.ni
 | Various | USB RS232 Adapter | CH340/HL340 | [CH340/HL340](http://www.microcontrols.org/wp-content/uploads/2015/05/DRIVER1_CH340.zip) | Working 100% |
 | [Aten](https://www.aten.com/) | [UC232A](https://assets.aten.com/product/manual/uc232a-uc232a1_um_w_2019-12-11.pdf) | [PL-2303](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41) | [PL-2303](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41) | Working 100% [Tested on VMware] |
 | [24hshop](http://www.24hshop.no/) | [USB to RS232 Adapter](https://www.24hshop.no/datatilbehor/usb-datatilbehor/adaptere-til-usb/usb-til-rs232-adapter?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmKN41GR-vkY_Rt_gw1AwBOccqxt4DDqYSI8x1r7pc-FSvZIS5pYdpoaAvR1EALw_wcB) | - | - | Working 100% [Tested on VMware] |
-
----
-
-## Working with issues
-
-| Manufacturer | Model | Chipset | Driver | Status |
-| --- | --- | --- | --- | --- |
-| [Digitech](http://www.jaycar.com.au/) | [XC4834](https://www.jaycar.com.au/usb-to-db9m-rs-232-converter-1-5m/p/XC4834) | [PL-2303RA](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41) | [PL-2303RA](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41) | Writing PCMCIA cards works. No TIS or SPS access |
-
----
-
-## Not working
-
-| Manufacturer | Model | Chipset | Driver | Status |
-| --- | --- | --- | --- | --- |
-| [Clas Ohlson](http://www.clasohlson.no/) | [USB to Serial Adapter](https://www.clasohlson.com/no/USB-til-serieportadapter/p/38-5654) | - | - | Does not work | 
-
----
