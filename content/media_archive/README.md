@@ -1,5 +1,5 @@
 ---
-sort: 6000
+sort: 700
 ---
 # Tech2 media archive
 Various media on the Tech2

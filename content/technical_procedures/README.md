@@ -1,5 +1,5 @@
 ---
-sort: 700
+sort: 500
 ---
 
 # Technical Procedures

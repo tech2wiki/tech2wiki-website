@@ -1,5 +1,5 @@
 ---
-sort: 110
+sort: 600
 ---
 
 # Tech2 Finder

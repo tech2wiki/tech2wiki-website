@@ -1,7 +1,7 @@
 ---
-sort: 110
+sort: 300
 ---
 
-# Using the Tech2
+# Tech2 hardware issues
 
 {% include list.liquid all=true %}

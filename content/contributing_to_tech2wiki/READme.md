@@ -1,5 +1,5 @@
 ---
-sort: 9000
+sort: 800
 ---
 # Contributing to TECH2WIKI.COM
 
