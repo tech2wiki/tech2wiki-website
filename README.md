@@ -1,6 +1,6 @@
 # Why a Tech2 Wiki?
 
-![](/content/tech2/tech2_logo_anim.gif)
+![](/assets/images/tech2_logo_anim.gif)
 
 We believe in the freedom of information and open and equal access to information for everyone. Working with the Tech2 device requires some knowledge on the device and the TECH2WIKI community makes an effort to provide this.
 
