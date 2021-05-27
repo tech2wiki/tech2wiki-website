@@ -21,24 +21,24 @@ The module also seems to perform much better than the original RS232 connection.
 
 ## Serial connector removed
 
-[![](tech2_usb_mod_01_thumb.jpg)](tech2_usb_mod_01.jpg)
+[![](tech2_usb_mod_01_thumb.jpg)](tech2_usb_mod_01.jpg){:target="_blank"}
 
 ## Connecting wires for the USB-UART
 
-[![](tech2_usb_mod_02_thumb.jpg)](tech2_usb_mod_02.jpg)
+[![](tech2_usb_mod_02_thumb.jpg)](tech2_usb_mod_02.jpg){:target="_blank"}
 
 ## Connect RTS to CTS on the USB-UART module
 
-[![](tech2_usb_mod_03_thumb.jpg)](tech2_usb_mod_03.jpg)
+[![](tech2_usb_mod_03_thumb.jpg)](tech2_usb_mod_03.jpg){:target="_blank"}
 
 ## Cutting the +v pin on the USB connector
 
-[![](tech2_usb_mod_04_thumb.jpg)](tech2_usb_mod_04.jpg)
+[![](tech2_usb_mod_04_thumb.jpg)](tech2_usb_mod_04.jpg){:target="_blank"}
 
 ## Mounted the UART module to the Tech2 PCB
 
-[![](tech2_usb_mod_05_thumb.jpg)](tech2_usb_mod_05.jpg)
+[![](tech2_usb_mod_05_thumb.jpg)](tech2_usb_mod_05.jpg){:target="_blank"}
 
 ## Side view of the completed modification
 
-[![](tech2_usb_mod_06_thumb.jpg)](tech2_usb_mod_06.jpg)
+[![](tech2_usb_mod_06_thumb.jpg)](tech2_usb_mod_06.jpg){:target="_blank"}
