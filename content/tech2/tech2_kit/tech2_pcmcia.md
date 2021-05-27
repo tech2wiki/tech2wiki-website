@@ -9,4 +9,4 @@ sort: 600
 
 >_The Tech2 PCMCIA card contains Linear Flash storage, NOT ATA flash. Any Linear PCMCIA Flash cards of 32MB \(or greater\) are suitable for loading software for Tech2 use._
 
-![](tech2_pcmcia_card.png)
+![](tech2_pcmcia_card_01.png)
