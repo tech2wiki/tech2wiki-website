@@ -3,11 +3,15 @@ sort: 1300
 ---
 # C
 
+## C/C 
+
 C/C Servo – Powertrain > `Special Functions` > `Engine Output Controls` > `Cruise Control`
 
 C/C Vacuum Solenoid – Powertrain > `Special Functions` > `Engine Output Controls` > `Cruise Control`
 
 C/C Vent Solenoid – Powertrain > `Special Functions` > `Engine Output Controls` > `Cruise Control`
+
+## Calibrate
 
 Calibrate HVAC Module – Body > `Rear Aux. Climate Module` > `Special Functions` > `Output Control` > `Miscellaneous Test`
 
@@ -23,9 +27,13 @@ Calibration ID – Powertrain > `ID Information`
 
 Calibration ID – Powertrain > `ID Information` > `Engine`
 
+## Cam
+
 Cam Phaser Solenoid – Powertrain > `Special Functions` > `Engine Output Controls`
 
 Cam Valve Timing – Powertrain > `Special Functions` > `Engine Output Controls`
+
+## Capture
 
 Capture & Restore Fuel Rate Data – Powertrain > `Special Functions`
 
@@ -33,11 +41,17 @@ Capture and Restore Fuel Rate Data – Powertrain > `Special Functions`
 
 Capture Fuel Rate Data – Powertrain > `Special Functions` > `Capture & Restore Fuel Rate Data`
 
+## Cargo
+
 Cargo Door Unlock – Body > `Body Control Module` > `Special Functions` > `Output Control` > `Door Lock Test`
 
 Cargo Lamp On Indicator – Body > `Instrument Panel Cluster` > `Special Functions` > `Lamp Test`
 
+## Cassette
+
 Cassette Icon – Body > `Head Up Display` > `Special Functions`
+
+## CD Changer
 
 CD Changer – Body > `Radio` > `Special Functions` > `Output Control` > `Source`
 
@@ -45,13 +59,19 @@ CD Changer Functions – Body > `Radio` > `Special Functions` > `Output Control`
 
 CD Changer Track Number – Body > `Radio` > `Special Functions` > `Output Control` > `CD Changer Functions`
 
+## CD
+
 CD Icon – Body > `Head Up Display` > `Special Functions`
 
 CD/Map Information – Body and Accessories > `Entertainment` > `Module ID Information` > `Radio`
 
+## Cellular
+
 Cellular Information – Body > `Vehicle Comm. Interface Module` > `ID Information`
 
 Cellular Telephone – Body > `Radio` > `Special Functions` > `Set Options` > `External Device Volume Levels`
+
+## Center
 
 Center Cricket – Body > `Amplifier (Bose)` > `Special Functions` > `Output Control` > `Front Speakers`
 
@@ -59,13 +79,19 @@ Center IP Mid Range – Body > `Amplifier (Bose)` > `Special Functions` > `Outpu
 
 Center Speaker – Body > `Amplifier (Delco)` > `Special Functions` > `Output Control` > `Front Speakers`
 
+## Change Oil
+
 Change Oil Lamp – Body > `Instrument Panel Cluster` > `Special Functions` > `Lamp Test`
 
 Change Oil Lamp – Powertrain > `Special Functions` > `Engine Output Controls` > `Dash Lamps`
 
+## Change
+
 Change Override Code – Body > `Immobilizer` > `Special Functions`
 
 Change to Neutral Mode – Body > `Immobilizer` > `Programming`
+
+## Charge
 
 Charge Lamp – Body > `Instrument Panel Cluster` > `Special Functions` > `Lamp Test`
 
@@ -73,9 +99,13 @@ Charge Led – Body > `Instrument Panel Cluster` > `Special Functions` > `Lamp T
 
 Charge Receptacle Valve Test – Body > `HTCM` > `Special Functions`
 
+## Chassis
+
 Chassis Pitch Signal – Chassis > `RTD` > `Special Functions`
 
 Chassis Pitch Signal – Powertrain > `Special Functions` > `Engine Output Controls`
+
+## Check
 
 Check Eng Oil Level Indicator – Body > `Instrument Panel Cluster` > `Special Functions` > `Lamp Test`
 
@@ -88,6 +118,8 @@ Check Mode – Powertrain > `Special Functions`
 Check Transmission Lamp – Powertrain > `Special Functions` > `Trans. Output Controls`
 
 Check Transmission Lamp – Powertrain > `Special Functions` > `Transmission Output Controls`
+
+## Chime
 
 Chime – Body > `Body Control Module` > `Special Functions` > `Output Control`
 
@@ -133,11 +165,15 @@ Chime Tone 3 – Body > `Radio` > `Special Functions` > `Output Control` > `Chim
 
 Chime Tone Test – Body > `Radio` > `Special Functions` > `Output Control`
 
+## Cigar
+
 Cigar Lighter – Body > `Dash Integration Module` > `Special Functions` > `Output Control`
 
 Cigar Lighter – Body > `Rear Integration Module` > `Special Functions` > `Output Control`
 
 Cigar Lighter – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions` > `Instrument Panel Module` > `Output Controls`
+
+## Clear
 
 Clear 1-2 TAP – Powertrain > `Special Functions` > `Transmission Output Controls`
 
@@ -183,9 +219,13 @@ Clear TAP – Powertrain > `Special Functions` > `Transmission Output Controls`
 
 Clear TAPS – Powertrain > `Special Functions` > `Transmission Output Controls`
 
+## Cluster
+
 Cluster Dimming – Body > `Body Control Module` > `Special Functions` > `Output Control` > `Light Test`
 
 Cluster Dimming – Body > `Instrument Panel Cluster` > `Special Functions` > `Output Control`
+
+## Clutch
 
 Clutch PC Sol. 1 Electrical – Powertrain > `Special Functions` > `Trans. Output Controls` > `Clutch PC Solenoid 1`
 
@@ -199,15 +239,23 @@ Clutch PC Solenoid 1 – Powertrain > `Special Functions` > `Trans. Output Contr
 
 Clutch PC Solenoid 2 – Powertrain > `Special Functions` > `Trans. Output Controls`
 
+## CMP
+
 CMP Actuator System – Engine > `Engine Controls` > `Special Functions` > `Engine Control Module`
 
 CMP Actuator System – Powertrain > `Special Functions` > `Engine Output Controls`
+
+## CNG
 
 CNG Level Show – Powertrain > `Special Functions` > `Special Functions (Alt. Fuel)` > `Engine Output Controls` > `Driver Information Center`
 
 CNG to Gasoline – Powertrain > `Special Functions` > `Special Functions (Alt. Fuel)` > `Engine Output Controls` > `Forced Fuel Switch Over`
 
+## Cold Advance
+
 Cold Advance Relay – Powertrain > `Special Functions` > `Engine Output Controls`
+
+## Column Lock
 
 Column Lock – Steering > `Steering Wheel and Column` > `Special Functions` > `Instrument Panel Module`
 
@@ -215,11 +263,11 @@ Column Lock Relay – Steering > `Steering Wheel and Column` > `Special Function
 
 Column Lock Relay – Steering > `Variable Effort Steering` > `Special Functions` > `Body Control Module`
 
-Column Lock Relay – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions >`
-
-Instrument Panel Module > `Output Controls`
+Column Lock Relay – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions ` > Instrument Panel Module > `Output Controls`
 
 Column Lock Relay – Vehicle Control Systems > `Computer/Integrating Systems` > `Special Functions` > `Body Control Module`
+
+## Command
 
 Command 2 Wheel Steer – Chassis > `Rear Wheel Steering` > `Special Functions`
 
@@ -231,11 +279,19 @@ Command Rear Steer Left – Chassis > `Rear Wheel Steering` > `Special Functions
 
 Command Rear Steer Right – Chassis > `Rear Wheel Steering` > `Special Functions`
 
+## Compact Disc
+
 Compact Disc – Body > `Radio` > `Special Functions` > `Set Options` > `External Device Volume Levels`
+
+## Component
 
 Component Identification – Body > `Entertainment & Comfort Bus`
 
+## Compression
+
 Compression Test Setup – Powertrain > `Special Functions` > `Engine Output Controls`
+
+## Compressor
 
 Compressor Test – Body > `Heating and Air Conditioning` > `Special Functions`
 
@@ -244,6 +300,8 @@ Compressor Test – Chassis > `Air Suspension` > `Special Functions`
 Compressor Test – Chassis > `ESC (If Equipped)` > `Special Functions`
 
 Compressor Test – Chassis > `RTD` > `Special Functions`
+
+## Console Antenna
 
 Console Antenna – Body and Accessories > `Body Rear End` > `Special Functions` > `RCDLR` > `Output Controls`
 
@@ -259,9 +317,7 @@ Console Antenna – Suspension > `Tire Pressure Monitoring` > `Special Functions
 
 Console Antenna – Transmission/Transaxle > `Shift Lock Control` > `Special Functions` > `RCDLR` > `Output Controls`
 
-Console Antenna – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions >`
-
-Remote Control Door Lock Receiver > `Output Controls`
+Console Antenna – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions` > Remote Control Door Lock Receiver > `Output Controls`
 
 Console Door Position – Body > `Rear HVAC` > `Special Functions`
 
@@ -295,9 +351,13 @@ Console Shift BTSI Relay – HVAC > `HVAC Systems Manual` > `Special Functions` 
 
 Console Switch Lamp – Body > `Body Control Module` > `Special Functions` > `Output Control` > `Lamp Dimming Test`
 
+## Control
+
 Control – Body > `Miscellaneous Test`
 
 Control Power – Body > `Dash Integration Module` > `Special Functions` > `Output Control`
+
+## Controller
 
 Controller Information – Body > `Body Control Module` > `ID Information` > `Module Information`
 
@@ -312,6 +372,8 @@ Controller Information 1 – Chassis > `ABS/TCS/VSES` > `ID Information`
 Controller Information 2 – Body > `Supplemental Inflatable Restraint` > `ID Information` > `Module Information`
 
 Controller Information 2 – Chassis > `ABS/TCS/VSES` > `ID Information`
+
+## Coolant
 
 Coolant Gauge Sweep – Body > `Instrument Panel Cluster` > `Special Functions` > `Output Control`
 
@@ -329,6 +391,8 @@ Coolant Gauge Sweep Test – Engine > `Engine Electrical` > `Special Functions` 
 
 Coolant Temperature Lamp – Body > `Instrument Panel Cluster` > `Special Functions` > `Lamp Test`
 
+## Cooling fan
+
 Cooling Fan – Engine > `Engine Controls` > `Special Functions` > `Engine Control Module` > `Output Controls`
 
 Cooling Fan – Engine > `Engine Controls` > `Special Functions` > `Engine Control Module` > `Output Controls` > `Cooling Fan`
@@ -343,7 +407,11 @@ Cooling Fan – HVAC > `HVAC Systems Manual` > `Special Functions` > `Engine Con
 
 Cooling Fan relay – Body > `Body Control Module` > `Special Functions` > `Output Control` > `Miscellaneous Test`
 
+## Counter
+
 Counter Reset – Powertrain > `Special Functions` > `Special Functions (PCM)` > `Engine Output Controls`
+
+## Country Code
 
 Country Code – Body > `Radio` > `Special Functions`
 
@@ -356,6 +424,8 @@ Country Code – Body > `Radio` > `Special Functions` > `Set Options` > `Tuner S
 Country Code – Body and Accessories > `Entertainment` > `Module Setup` > `Radio`
 
 Country Code – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Module Setup` > `Radio`
+
+## Courtesy Lamp
 
 Courtesy Lamp – Body > `Immobilizer` > `Special Functions` > `Output Tests`
 
@@ -381,9 +451,7 @@ Courtesy Lamp w/Dimming – Brakes > `Park Brake` > `Special Functions` > `Rear 
 
 Courtesy Lamp w/Dimming – Engine > `Engine Electrical` > `Special Functions` > `Rear Integration Module` > `Output Controls` > `Lighting`
 
-Courtesy Lamp w/Dimming – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions >`
-
-Rear Integration Module > `Output Controls` > `Lighting`
+Courtesy Lamp w/Dimming – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions` > Rear Integration Module > `Output Controls` > `Lighting`
 
 Courtesy Lamp w/o Dimming – Body and Accessories > `Keyless Entry` > `Special Functions` > `Rear Integration Module` > `Output Controls` > `Lighting`
 
@@ -399,11 +467,13 @@ Courtesy Lamp w/o Dimming – Brakes > `Park Brake` > `Special Functions` > `Rea
 
 Courtesy Lamp w/o Dimming – Engine > `Engine Electrical` > `Special Functions` > `Rear Integration Module` > `Output Controls` > `Lighting`
 
-Courtesy Lamp w/o Dimming – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions` >`Rear Integration Module` > `Output Controls` > `Lighting`
+Courtesy Lamp w/o Dimming – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions` > `Rear Integration Module` > `Output Controls` > `Lighting`
 
 Courtesy Lamps – Body > `Body Control Module` > `Special Functions` > `Output Control` > `Light Test`
 
 Courtesy Lamps – Body > `Remote Function Actuation` > `Special Functions` > `Output Control`
+
+## Crank
 
 Crank Position Sensing Decode Mode – Powertrain > `Special Functions` > `Engine Output Controls`
 
@@ -449,9 +519,10 @@ Crankshaft Pos. Variation Learn – Powertrain > `Special Functions` > `Special 
 
 Crankshaft Pos. Variation Learn – Vehicle Control Systems > `Computer/Integrating Systems` > `Module Setup` > `Engine Control Module`
 
-Crankshaft Pos. Variation Learn – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Module Setup >`
+Crankshaft Pos. Variation Learn – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Module Setup` > Powertrain Control Module
 
-Powertrain Control Module
+## Cruise
+
 Cruise Clutch – Powertrain > `Special Functions` > `Engine Output Controls`
 
 Cruise Clutch – Powertrain > `Special Functions` > `Engine Output Controls` > `Cruise Control`
@@ -480,16 +551,19 @@ Cruise Enable – Powertrain > `Special Functions (Natural Gas)` > `Engine Outpu
 
 Cruise Enable – Powertrain > `Special Functions` > `Engine Output Controls`
 
-25
 Cruise Inhibit – Powertrain > `Special Functions` > `Engine Output Controls`
 
 Cruise Lamp – Powertrain > `Special Functions` > `Engine Output Controls` > `Dash Lamps`
 
 Cruise VSS Output – Powertrain > `Special Functions` > `Engine Output Controls` > `Cruise Control`
 
+## Cruse
+
 Cruse Enable – Powertrain > `Special Functions` > `Special Functions (PCM)` > `Engine Output Controls`
 
 Cruse Lamp – Body > `Instrument Panel Cluster` > `Special Functions` > `Lamp Test`
+
+## CTD
 
 CTD Operation – Body > `Body Control Module` > `Special Functions` > `Personalization`
 
@@ -499,9 +573,15 @@ CTD Shock Sensor – Body > `Personalization` > `Set Options`
 
 CTD Trunk Switch – Body > `Personalization` > `Set Options`
 
+## Cue
+
 Cue/Fast Fwd. – Body > `Radio` > `Special Functions` > `Output Control` > `CD Changer Functions`
 
+## Cycle
+
 Cycle Speakers-Radio – Body > `Special Functions` > `Output Control` > `Front Speakers`
+
+## Cylinder
 
 Cylinder 1 – Powertrain > `Special Functions` > `Engine Output Controls` > `Cylinder Deactivation`
 
