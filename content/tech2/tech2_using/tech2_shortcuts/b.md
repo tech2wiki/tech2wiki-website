@@ -3,15 +3,23 @@ sort: 1200
 ---
 # B
 
+## B1000 
+
 B1000 Test – Body > `Onstar` > `Special Functions`
 
 B1000 Test – Body > `Vehicle Comm. Interface Module` > `Special Functions`
 
 B1000 Test – Body and Accessories > `Cellular Communication` > `Special Functions` > `Vehicle Comm. Interface Module`
 
+## Backlight
+
 Backlight Dimming – Body > `Instrument Panel Cluster` > `Special Functions` > `IPC Illumination Test`
 
+## Backup Fuel
+
 Backup Fuel – Powertrain > `Special Functions`
+
+## Backup Lamp
 
 Backup Lamp Relay – Body and Accessories > `Keyless Entry` > `Special Functions` > `Rear Integration Module` > `Output Controls` > `Lighting`
 
@@ -69,11 +77,19 @@ Backup Lamps – Transmission/Transaxle > `Shift Lock Control` > `Special Functi
 
 Backup Lamps – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions` > `Body Control Module` > `Light Test`
 
+## Backup Spark
+
 Backup Spark – Powertrain > `Special Functions`
+
+## Balance
 
 Balance – Body > `Radio` > `Special Functions` > `Output Control`
 
+## Band Apply Solenoid
+
 Band Apply Solenoid – Powertrain > `Special Functions` > `Transmission Output Controls`
+
+## Bass
 
 Bass – Body > `Radio` > `Special Functions` > `Output Control` > `Front Speakers` > `Left Front Speaker`
 
@@ -84,6 +100,8 @@ Bass – Body > `Radio` > `Special Functions` > `Output Control` > `Rear Speaker
 Bass – Body > `Radio` > `Special Functions` > `Output Control` > `Rear Speakers` > `Right Rear Speaker`
 
 Bass Frequency Response – Body > `Radio` > `Special Functions`
+
+## Battery
 
 Battery Life Lamp – Body > `Instrument Panel Cluster` > `Special Functions` > `Lamp Test`
 
@@ -107,13 +125,19 @@ Battery Saver Time – Body > `Body Control Module` > `Special Functions` > `Set
 
 Battery Thermal Heat Test – Powertrain > `Special Functions` > `BPCM Output Controls`
 
+## BCM
+
 BCM Reprogramming – Body > `Body Control Module` > `Special Functions`
 
 BCM RPO Reprogram – Body > `Body Control Module` > `Special Functions`
 
+## BCEM
+
 BECM Output Controls – Powertrain > `Special Functions`
 
 BECM Service Charge – Powertrain > `Special Functions` > `BECM Output Controls`
+
+## Belt Tower
 
 Belt Tower and Headrest Up/Down – Body > `Memory Seat Module` > `Special Functions` > `Output Control`
 
@@ -121,11 +145,15 @@ Belt Tower Up/Down – Body > `Memory Seat Module` > `Special Functions` > `Misc
 
 Belt Tower Up/Down – Body > `Memory Seat Module` > `Special Functions` > `Output Control`
 
+## Bleed
+
 Bleed MPA – Chassis > `VESE (If Equipped)` > `Special Functions`
 
 Bleed Prep – Chassis > `ABS/TCS` > `Special Functions` > `ABS`
 
 Bleed Prep – Chassis > `Special Functions` > `ABS`
+
+## Blower Motor
 
 Blower Motor – Body > `Climate Control Panel` > `Special Functions` > `Miscellaneous Test`
 
@@ -154,6 +182,8 @@ Blower Motor Test – Body > `Heating and Air Conditioning` > `Special Functions
 Blower Motor Test – Body > `Rear Aux. Climate Module` > `Special Functions` > `Output Control` > `Blower Motor`
 
 Blower Speed – Body > `Heating and Air Conditioning` > `Special Functions` > `Output Control`
+
+## Body Control Module
 
 Body Control Module – Body and Accessories > `Body Rear End` > `Module ID Information`
 
@@ -263,15 +293,25 @@ Body Control Module – Vehicle Control Systems > `Computer/Integrating Systems`
 
 Body Control Module Setup – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Module Setup` > `Body Control Module`
 
+## Boost Solenoid
+
 Boost Solenoid – Engine > `Engine Controls` > `select optional question(s) if applicable` > `Special Functions` > `Powertrain Control Module` > `Output Control`
 
 Boost Solenoid – Powertrain > `Special Functions` > `Engine Output Controls`
 
+## Bose
+
 Bose Display – Body > `Radio` > `Special Functions` > `Set Options`
+
+## Both Fan Controls
 
 Both Fan Controls – Powertrain > `Special Functions` > `Engine Output Controls` > `Fan Relays`
 
+## BPCM
+
 BPCM Output Controls – Powertrain > `Special Functions`
+
+## BPP
 
 BPP Sensor Calibration – Body > `Body Control Module` > `Special Functions`
 
@@ -314,6 +354,9 @@ BPP Sensor Calibration – Vehicle Control Systems > `Computer/Integrating Syste
 BPP Sensor Calibration – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Module Setup` > `Body Control Module`
 
 BPP Sensor Calibration – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions > `Instrument Panel Module`
+
+## Brake
+
 Brake Lamp – Body > `Instrument Panel Cluster` > `Special Functions` > `Lamp Test`
 
 Brake Lamp – Chassis > `4WAL 3 Sensor` > `Special Functions` > `Lamp Tests`
@@ -384,10 +427,16 @@ Brake Warning Lamp – Chassis > `ABS` > `Special Functions` > `Lamp Tests`
 
 Brake Warning Lamp – Chassis > `Antilock Brake System` > `Special Functions` > `Lamp Tests`
 
+## Buckle
+
 Buckle Up Reminder – Body > `Supplemental Inflatable Restraint` > `Special Functions` > `Set Options`
+
+## Bump
 
 Bump Stop – Chassis > `Electronic Suspension Control` > `Special Functions`
 
 Bump Stop Trim Set – Chassis > `Electronic Suspension Control` > `Special Functions` > `Recalibration`
+
+## Buss
 
 Bus Isolator – Body > `Body Control Module` > `Special Functions` > `Output Control` > `Miscellaneous Test`
