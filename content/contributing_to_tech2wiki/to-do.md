@@ -11,7 +11,6 @@ The {{site.title}} repository is [here]({{ site.repo }}).
 
 | Assigned to | Item | Description |
 | --- | --- | --- |
-| [unassigned] | Tech2WIN Info | |
-| Berry | Investigate 'Tech2 Locator' alternatives | https://ayastreb.me/jekyll-maps/ |
+| [unassigned] | tech2_buyers-guide\where-to-buy| describe the various sources for purchase |
 
 ---
