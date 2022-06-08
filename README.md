@@ -8,7 +8,7 @@ The aim is to have an audience ranging from beginner \(n00b\), subject matter ex
 
 The goal of this wiki is to provide documentation based on real life experience with the Tech2 device and the Techline computer. This means that every action should be easily reproducible using the hardware and software as documented.
 
-Please join the [TECH2WIKI.COM team on GitHub]({{ site.repo }}), the [TECH2FINDER.COM](https://tech2finder.com) and our [Facebook group – Tech2 Owners’ club](https://www.facebook.com/groups/Tech2OwnersClub/) for sharing our knowledge.
+Please join the [TECH2WIKI.COM team on GitHub]({{ site.repo }}) and our [Facebook group – Tech2 Owners’ club](https://www.facebook.com/groups/Tech2OwnersClub/) for sharing our knowledge.
 
 ## Table of contents
 
