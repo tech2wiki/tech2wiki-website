@@ -1,18 +1,21 @@
 ---
 sort: 300
 ---
+
 # Writing PCMCIA using MCE
 
 The Memory Card Explorer, in short MCE, is a versatile application which allows to read and write linear flash PCMCIA cards. Reading and writing cards using the internal PCMCIA slot is relatively fast as writing, including verify, a 32MB card takes around 5 minutes. This article covers version 3.16, designed for Microsoft's Windows NT4.0/2000/XP (32-bit only). This software has been designed by Elan Digital Systems Ltd. and released August 2002, currently archived on the [Synchrotech Support Blog](http://synchrotech.blogspot.com/2013/04/elan-downloads-and-support-archive.html).
 
 ## Requirements
 
-Required hardware: 
-*   [Supported PCMCIA slot](/content/tech2_pcmcia/writing_pcmcia_cards/writing_pcmcia_hardware_compatibility.html) in a physical desktop/laptop computer.
+Required hardware:
+
+- [Supported PCMCIA slot](/content/tech2_pcmcia/writing_pcmcia_cards/writing_pcmcia_hardware_compatibility.html) in a physical desktop/laptop computer.
 
 Required software:
-*   Microsoft Windows
-*   Elan Memory Card Explorer v3.16
+
+- Microsoft Windows
+- Elan Memory Card Explorer v3.16
 
 Assuming that the application has been installed in the default folder: C:\ElanPCCard\Memory Card Explorer
 

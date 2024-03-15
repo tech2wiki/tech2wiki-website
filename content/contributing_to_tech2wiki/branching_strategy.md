@@ -1,9 +1,10 @@
 ---
 sort: 300
 ---
+
 # Branching strategy
 
-Using a branching strategy allows us to collaborate more easily. Each branch can a specific purpose or you can use a named branch, for example 'tech2win' or 'tech2-buyers-guide'. 
+Using a branching strategy allows us to collaborate more easily. Each branch can a specific purpose or you can use a named branch, for example 'tech2win' or 'tech2-buyers-guide'.
 
 ## Creating a branch
 

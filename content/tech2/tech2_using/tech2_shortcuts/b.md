@@ -1,9 +1,10 @@
 ---
 sort: 1200
 ---
+
 # B
 
-## B1000 
+## B1000
 
 B1000 Test – Body > `Onstar` > `Special Functions`
 
@@ -35,7 +36,7 @@ Backup Lamp Relay – Brakes > `Park Brake` > `Special Functions` > `Rear Integr
 
 Backup Lamp Relay – Engine > `Engine Electrical` > `Special Functions` > `Rear Integration Module` > `Output Controls` > `Lighting`
 
-Backup Lamp Relay – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions > `Rear Integration Module` > `Output Controls` > `Lighting`
+Backup Lamp Relay – Vehicle Control Systems > `Computer/Integrating Systems` > select optional questions if applicable > `Special Functions > `Rear Integration Module`>`Output Controls`>`Lighting`
 
 Backup Lamp Relay Control – Vehicle Control Systems > `Computer/Integrating Systems` > `Special Functions` > `Body Control Module`
 

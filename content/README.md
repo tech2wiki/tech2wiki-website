@@ -1,26 +1,29 @@
 ---
 sort: 1
 ---
+
 # What is a Tech2?
 
-The Tech2 is a scanning device which is able to let you deep dive into the internals of the various systems in your vehicle. While generic scanners can show and decode error codes, the Tech2 has the ability to get into the details of the error. Also the Tech2 is able to set brand/type specific settings. The Tech2 is not a engine tuning tool but is able to give you good insights on the status of the car. 
+The Tech2 is a scanning device which is able to let you deep dive into the internals of the various systems in your vehicle. While generic scanners can show and decode error codes, the Tech2 has the ability to get into the details of the error. Also the Tech2 is able to set brand/type specific settings. The Tech2 is not a engine tuning tool but is able to give you good insights on the status of the car.
 
 Vetronix made the Tech1. The original GM Tech2 was made by Hewlett Packard and used Vetronix software. Vetronix purchased the Tech2 manufacturing rights from HP. In 2003, Vetronix was acquired by ETAS, a supplier of standardized development and diagnostic tools for electronic control units. In 2006, the Vetronix Aftermarket division merged with Bosch Automotive Aftermarket, responsible for supply, sales and logistics of automotive parts for service of the vehicle. So today the Tech2 is ‘made’ by Bosch.
 
 There a two major Tech2 line setups:
 
 Tech2
-*   Hardware scanner
-    *   Tech2 device
-    *   Tech Line PC
+
+- Hardware scanner
+  - Tech2 device
+  - Tech Line PC
 
 Tech2Win
-*   Software scanner
-    *   T2W cable
-    *   Tech Line PC
-    *   Tech2WIN software
 
-## Tech2 
+- Software scanner
+  - T2W cable
+  - Tech Line PC
+  - Tech2WIN software
+
+## Tech2
 
 AD 400 Tech2 Scan tool
 

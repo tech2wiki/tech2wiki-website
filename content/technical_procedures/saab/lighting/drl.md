@@ -12,31 +12,31 @@ In order to modify the configuration of your DRL’s, follow this procedure.
 
 ### Requirements
 
-* SAAB 9-3 MY03 or newer
-* Tech2 with CANDi module
-* Security Access
-* SAAB 1XX.000 PCMCIA card
+- SAAB 9-3 MY03 or newer
+- Tech2 with CANDi module
+- Security Access
+- SAAB 1XX.000 PCMCIA card
 
 ### Procedure
 
-* Select `F0`: Diagnostics
-* Select Model Year
-* Select `Saab 9-3 Sport (9440)`
-* Select `F4`: All
-* Select `F7`: Add/Remove
-* Select `F1`: Control Modules
-* Select `UEC` (Underhood Electrical Center)
-* Select `Add`
-* Follow the on-screen instructions, when you get to the headlight part of the guide there will be several options.
-* To have DRL’s OFF among headlights, choose the option for that headlights should be on when the light selector is in `ROW POS 2`.
-* To have the headlights ON at all times choose `ROW POS 0`.
-* The next step is to make the rear lights match the headlights.
-* Select `REC` (Rear Electrical Center)
-* Follow the on-screen instructions as you did for the UEC.
-* Go back to the Diagnostics menu.
-* Select `F3`: Body
-* Select `Exterior Lightning and Horn`
-* Select `Fog Lights Front`
-* There will be three different setups to choose between
-    * Select `ROW POS 1` & `ROW POS 2` for the ability to have the fog lights ON when your headlights are on. (This will also allow the fog lights to remain on while the high beams are in use).
-* Repeat the same procedure for `Fog Lights Rear`
+- Select `F0`: Diagnostics
+- Select Model Year
+- Select `Saab 9-3 Sport (9440)`
+- Select `F4`: All
+- Select `F7`: Add/Remove
+- Select `F1`: Control Modules
+- Select `UEC` (Underhood Electrical Center)
+- Select `Add`
+- Follow the on-screen instructions, when you get to the headlight part of the guide there will be several options.
+- To have DRL’s OFF among headlights, choose the option for that headlights should be on when the light selector is in `ROW POS 2`.
+- To have the headlights ON at all times choose `ROW POS 0`.
+- The next step is to make the rear lights match the headlights.
+- Select `REC` (Rear Electrical Center)
+- Follow the on-screen instructions as you did for the UEC.
+- Go back to the Diagnostics menu.
+- Select `F3`: Body
+- Select `Exterior Lightning and Horn`
+- Select `Fog Lights Front`
+- There will be three different setups to choose between
+  - Select `ROW POS 1` & `ROW POS 2` for the ability to have the fog lights ON when your headlights are on. (This will also allow the fog lights to remain on while the high beams are in use).
+- Repeat the same procedure for `Fog Lights Rear`
