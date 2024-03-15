@@ -1,9 +1,10 @@
 ---
 sort: 300
 ---
+
 # FOB & Remote
 
- FOB & Remote Programming
+FOB & Remote Programming
 
 1. Open the driver's door.
 2. Insert key into the ignition position.

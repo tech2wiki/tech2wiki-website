@@ -16,20 +16,20 @@ eBay is a good source of used “remote keys” for this generation of 9-3, to g
 
 ### All keys must be present, including at least one that is already programmed to the car
 
-* Identify the UNLOCK button on the remote-key head so you can find it by feel.
-* Connect the Tech-2 to the OBD-II port on the car.
-* Turn the headlights OFF.
-* Using one of the already-known keys, turn the ignition to ON so the Tech-2 can talk to the TWICE.
-* Power on the Tech-2. Hit ENTER when prompted.
-* Choose: Diagnostics / year / Saab 9-3 / Body / TWICE
-    (Wait while Tech-2 establishes communications with the module.)
-* Choose: Marry new keys (or words to this effect)
+- Identify the UNLOCK button on the remote-key head so you can find it by feel.
+- Connect the Tech-2 to the OBD-II port on the car.
+- Turn the headlights OFF.
+- Using one of the already-known keys, turn the ignition to ON so the Tech-2 can talk to the TWICE.
+- Power on the Tech-2. Hit ENTER when prompted.
+- Choose: Diagnostics / year / Saab 9-3 / Body / TWICE
+  (Wait while Tech-2 establishes communications with the module.)
+- Choose: Marry new keys (or words to this effect)
 
 Follow the instructions on-screen. There are a couple of OK/NO pages, one of which is default EXIT. Then:
 
-* Watch the red SEAT BELT light on the dashboard.
-* On the key that is now in the ignition, hit the UNLOCK button once per second until the SEAT BELT light flashes. This may take up to 8 button pushes. If the light doesn’t flash, check the battery in the key, and start over.
-* Turn OFF the ignition.
-* If there are more keys: Insert the next key to be programmed, turn ON the ignition, and go to Step 2.
-* Confirm with OK that all keys are programmed.
-* Turn OFF and disconnect the Tech-2
+- Watch the red SEAT BELT light on the dashboard.
+- On the key that is now in the ignition, hit the UNLOCK button once per second until the SEAT BELT light flashes. This may take up to 8 button pushes. If the light doesn’t flash, check the battery in the key, and start over.
+- Turn OFF the ignition.
+- If there are more keys: Insert the next key to be programmed, turn ON the ignition, and go to Step 2.
+- Confirm with OK that all keys are programmed.
+- Turn OFF and disconnect the Tech-2

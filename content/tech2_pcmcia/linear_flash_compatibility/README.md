@@ -4,7 +4,7 @@ sort: 100
 
 # Card compatibility
 
-Tech2 can __only__ use [linear flash](https://en.wikipedia.org/wiki/Linear_Flash) PCMCIA cards.
+Tech2 can **only** use [linear flash](https://en.wikipedia.org/wiki/Linear_Flash) PCMCIA cards.
 
 Linear Flash is a PC card flash memory format now used primarily in Cisco routers. Linear Flash requires no battery support, unlike somewhat faster SRAM, and features read/write speeds much faster than similar, less expensive ATA-type cards (which include Compact Flash and Memory Stick.) Like an SRAM, Linear Flash supports execute in place (XIP) applications in mobile PC and embedded equipment.
 

@@ -1,6 +1,7 @@
 ---
 sort: 200
 ---
+
 # Testing the RS232 loopback plug
 
 Test the plug by attaching it to the serial port of the Techline computer or into a certified Tech2 USB-2-serial adapter. Download a serial terminal application like RealTerm to diagnose the loop-back functionality.
@@ -9,24 +10,24 @@ Now plug your RJ-45 loop-back adapter into the Tech2 device and navigate to the 
 
 While using the (SAAB 44.000 .bin file)[/content/which_.bin-files_are_available/SAAB.html] you need to follow this procedure;
 
-*   Insert the loop-back plug into the RJ-45 port
-*   Press `PWR` to turn on the Tech2
-*   Title screen, press `ENTER`
-*   `F2`: Tools Options
-*   `F3`: Field Services Diagnostics
-*   `F3`: Selectable Main PCB
-*   `F2`: RS-232 LoopBack
+- Insert the loop-back plug into the RJ-45 port
+- Press `PWR` to turn on the Tech2
+- Title screen, press `ENTER`
+- `F2`: Tools Options
+- `F3`: Field Services Diagnostics
+- `F3`: Selectable Main PCB
+- `F2`: RS-232 LoopBack
 
 While using the (SAAB 148.000 .bin file)[/content/which_.bin-files_are_available/SAAB.html] you need to follow this procedure;
 
-*   Insert the loop-back plug into the RJ-45 port
-*   Press `PWR` to turn on the Tech2
-*   Title screen, press `ENTER`
-*   `F2`: Tool Options
-*   `F0`: Tech2 Self Test
-*   Press `EXIT` on the notification screen
-*   `F3`: Selectable Main PCB
-*   `F2`: RS-232 LoopBack
+- Insert the loop-back plug into the RJ-45 port
+- Press `PWR` to turn on the Tech2
+- Title screen, press `ENTER`
+- `F2`: Tool Options
+- `F0`: Tech2 Self Test
+- Press `EXIT` on the notification screen
+- `F3`: Selectable Main PCB
+- `F2`: RS-232 LoopBack
 
 Now the Tech2 should respond with the following: `RS-232 Test: Passed`
 

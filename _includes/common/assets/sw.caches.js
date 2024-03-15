@@ -8,9 +8,9 @@ self.addEventListener("activate", function (event) {
           if (current.indexOf(key) === -1) {
             return caches.delete(key);
           }
-        })
+        }),
       );
-    })
+    }),
   );
 });
 
@@ -33,7 +33,7 @@ self.addEventListener("fetch", function (e) {
             })
             .catch(console.log);
         }
-      })
+      }),
     );
   }
 });

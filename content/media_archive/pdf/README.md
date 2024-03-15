@@ -1,6 +1,7 @@
 ---
 sort: 400
 ---
+
 # PDF documents
 
 [BBA-Reman - How to determine if a Tech2 Handset is a clone](bba-reman_how_to_detect_clone_tech2.pdf)
