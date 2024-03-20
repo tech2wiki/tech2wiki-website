@@ -1,7 +1,6 @@
 ---
 sort: 100
 ---
-
 # Linear flash cards
 
 ## GM \'clone\' - 32MB

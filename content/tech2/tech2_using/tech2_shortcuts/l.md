@@ -1,7 +1,6 @@
 ---
 sort: 2200
 ---
-
 # L
 
 Lamp and Gauge Check – Body > `Instrument Panel Cluster` > `Special Functions`
@@ -184,7 +183,7 @@ Left Front Speaker – Body > `Radio` > `Special Functions` > `Output Control` >
 
 Left Front Speaker – Body and Accessories > `Entertainment` > `select optional question(s) if applicable` > `Special Functions` > `Radio`
 
-Left Front Speaker – Body and Accessories > `Entertainment` > `select optional question(s) if applicable` > `Special Functions` > `Radio` > `Output Control` > `Front Speakers`
+Left Front Speaker – Body and Accessories > `Entertainment` > `select optional question(s) if applicable` > `Special Functions` > `Radio` > `Output Control` > `Front Speakers` 
 
 Left Front Speaker – Body and Accessories > `Entertainment` > `Special Functions` > `Navigation Radio`
 

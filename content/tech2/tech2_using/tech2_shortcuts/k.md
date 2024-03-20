@@ -1,7 +1,6 @@
 ---
 sort: 2100
 ---
-
 # K
 
 Key Diagnosis – Body > `Immobilizer` > `Programming`

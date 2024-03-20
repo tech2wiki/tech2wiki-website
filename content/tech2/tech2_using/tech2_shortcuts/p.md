@@ -1,7 +1,6 @@
 ---
 sort: 2700
 ---
-
 # P
 
 P1870 Diagnostic Test – Powertrain > `Special Functions` > `Transmission Output Controls`

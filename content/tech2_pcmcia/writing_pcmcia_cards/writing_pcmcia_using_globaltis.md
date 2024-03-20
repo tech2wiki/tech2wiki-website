@@ -1,7 +1,6 @@
 ---
 sort: 100
 ---
-
 # Writing PCMCIA using GlobalTIS
 
 GlobalTIS is a computer-based system used for reprogramming software as well as troubleshouting and diagnostics on vehicle control units. GlobalTIS is used through your web browser and requires a compatible version of Java to be able to work correctly. The system requires a hand-held, programmable diagnostic tool, Tech2, in order to communicate with the vehicle.
@@ -10,13 +9,13 @@ GlobalTIS can be used to download new software to your PCMCIA card used in the T
 
 ## Requirements
 
-- Tech2
-- 12V DC adapter as power source for the Tech2
-- PCMCIA card inserted to Tech2
-- COM port, this can be a physical DB9 or a USB to Serial cable, on a desktop/laptop computer.
-- Microsoft Windows
-- Java
-- GlobalTIS
+*   Tech2
+*   12V DC adapter as power source for the Tech2
+*   PCMCIA card inserted to Tech2
+*   COM port, this can be a physical DB9 or a USB to Serial cable, on a desktop/laptop computer.
+*   Microsoft Windows
+*   Java
+*   GlobalTIS
 
 ## Preparations
 
@@ -48,12 +47,11 @@ _Note:_ Depending on the version of Java you are running you may get a warning m
 
 In the next step you will be prompted to select the diagnostic tool and update mode you want to use. For update mode you have two options to choose between;
 
-- Standard
+*   Standard
+    *   This will check the current software on your PCMCIA card and then download the latest version, if any newer version is available. 
 
-  - This will check the current software on your PCMCIA card and then download the latest version, if any newer version is available.
-
-- Custom
-  - Enables to select the version you want and also the language.
+*   Custom
+    *   Enables to select the version you want and also the language.
 
 Select `Custom` and press `Next`.
 
@@ -67,7 +65,7 @@ When the initiation is finished you will see the software versions available in 
 
 ![](write_globaltis_06.webp)
 
-Mark the software version and language you wish to write to your PCMCIA card and then press `Select`.
+Mark the software version and language you wish to write to your PCMCIA card and then press `Select`. 
 
 The software version you have chosen will now be displayed on the right side of the Software Download window. When the selected version and language is the one you wish to write to the PCMCIA card, press `Download >`.
 

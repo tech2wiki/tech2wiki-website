@@ -1,7 +1,6 @@
 ---
 sort: 300
 ---
-
 # Configuration details
 
 Example:

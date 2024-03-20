@@ -1,16 +1,14 @@
 ---
 sort: 500
 ---
-
 # VDI module malfunctioning
+ Some Tech2 devices may fail by randomly not connecting to the vehicle. The Tech2 would display `No communications with vehicle` `Check Diagnostic Link Connector`. This could be a sign of a malfunctioning VCI module.
 
-Some Tech2 devices may fail by randomly not connecting to the vehicle. The Tech2 would display `No communications with vehicle` `Check Diagnostic Link Connector`. This could be a sign of a malfunctioning VCI module.
-
-It appears that not all VCI modules are manufactured on the same quality level.
+It appears that not all VCI modules are manufactured on the same quality level. 
 
 [![](faulty_vci_vcifail1_thumb.jpg)](faulty_vci_vcifail1.jpg)
 
-This Tech2 has a faulty VCI module.
+This Tech2 has a faulty VCI module. 
 
 [![](faulty_vci_vcifail2_thumb.jpg)](faulty_vci_vcifail2.jpg)
 
@@ -20,10 +18,10 @@ While running a self test a similar result may appear.
 
 It appears that two different VCI modules are manufactured and sold.
 
-- One is known for having similar issues that I was experiencing.
-  - No QC stamp.
-- The other seems to be built much better, with far better solder quality, slightly different markings on the board, and some different components.
-  - QC stamp visible
+*   One is known for having similar issues that I was experiencing.
+    *   No QC stamp.
+*   The other seems to be built much better, with far better solder quality, slightly different markings on the board, and some different components.
+    *   QC stamp visible
 
 ## Side-by-side comparison
 

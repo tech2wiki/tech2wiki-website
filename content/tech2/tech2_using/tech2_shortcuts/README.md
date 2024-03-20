@@ -1,7 +1,6 @@
 ---
 sort: 100
 ---
-
 # Tech2 shortcuts
 
 Getting to know your way around in the Tech2 can be a cumbersome activity.
@@ -10,18 +9,18 @@ Most of the practical Tech 2 shortcuts or pathing is listed on the following pag
 
 Depending on the vehicle, each path originates with one of 12 selections:
 
-- Powertrain
-- Chassis
-- Body
-- Vehicle Control Systems
-- HVAC
-- Steering
-- Suspension
-- Brakes
-- Engine
-- Transmission/Transaxle
-- Body and Accessories
-- Restraints
+*   Powertrain
+*   Chassis
+*   Body
+*   Vehicle Control Systems
+*   HVAC
+*   Steering
+*   Suspension
+*   Brakes
+*   Engine
+*   Transmission/Transaxle
+*   Body and Accessories
+*   Restraints
 
 Search for a specific string by clicking one of the letters or use the search bar.
 

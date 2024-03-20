@@ -1,7 +1,6 @@
 ---
 sort: 2900
 ---
-
 # S
 
 S Band (USA Only) – Body > `Digital Radio Receiver`

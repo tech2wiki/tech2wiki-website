@@ -1,7 +1,6 @@
 ---
 sort: 300
 ---
-
 # Connecting to Techline
 
 The Tech2 can be connected to a computer using the serial (RS-232) connector on your computer. Most modern machines don't have that built-in serial device anymore. In this case you can opt for RS-232 comport add-on card, which could be hard to find. Another alternative would be installing a USB-to-serial adapter cable. Please note that not all USB-to-serial cables work with the Tech2, see: [USB to serial hardware compatibility list](/content/tech2_hardware_issues/usb_to_serial_adapters.html).
@@ -12,23 +11,23 @@ An external power supply has to be used only when the Tech2 isn't connected and 
 
 The Tech2 communicates using the following protocol properties.
 
-| Tech2 RS-232 | Setting      |
-| ------------ | ------------ |
-| Standard     | RS-232       |
-| Speed        | 115200 bit/s |
-| Data bits    | 8 bits       |
-| Parity       | not set      |
-| Stop bits    | 1            |
-| Flow control | no           |
+| Tech2 RS-232 | Setting |
+| --- | --- |
+| Standard | RS-232 |
+| Speed | 115200 bit/s |
+| Data bits | 8 bits |
+| Parity | not set |
+| Stop bits | 1 |
+| Flow control | no |
 
-## External power supply
+ ## External power supply
 
-| Power supply | Setting                                     |
-| ------------ | ------------------------------------------- |
-| Voltage      | 12 V                                        |
-| Current      | 1,5-3,0 A (battery cable is fused on 3,0 A) |
-| Polarity     | (+) center                                  |
-| Plug         | Ø2,5×5,5 mm                                 |
+| Power supply | Setting |
+| --- | --- |
+| Voltage | 12 V |
+| Current | 1,5-3,0 A (battery cable is fused on 3,0 A) |
+| Polarity | (+) center |
+| Plug | Ø2,5×5,5 mm |
 
 ## Wiring diagram
 
@@ -45,42 +44,42 @@ The DB9 connector is marked 1 and 9 at the terminal surface.
 The pin out in this image shows the RJ45 female and DB9 female numbers.
 
 | Tech2 RS-232 | Setting |
-| ------------ | ------- |
-| Standard     | RS-232  |
+| --- | --- | 
+| Standard | RS-232 |
 
 ## Serial cable pin out
 
 DB9 female to RJ45 male
 
 | DB9 | RJ45 | Colour |
-| --- | ---- | ------ |
-| 1   | 2    | Orange |
-| 2   | 4    | Red    |
-| 3   | 5    | Green  |
-| 4   | 8    | White  |
-| 5   | 7    | Brown  |
-| 6   | 1    | Blue   |
-| 7   | 3    | Black  |
-| 8   | 6    | Yellow |
-| 9   | NC   | n/a    |
+| --- | --- | --- |
+| 1 | 2 | Orange |
+| 2 | 4 | Red |
+| 3 | 5 | Green |
+| 4 | 8 | White |
+| 5 | 7 | Brown |
+| 6 | 1 | Blue |
+| 7 | 3 | Black |
+| 8 | 6 | Yellow |
+| 9 | NC | n/a |
 
----
+--- 
 
 ## Serial adapter pin out
 
 DB9 female to RJ45 female
 
-| DB9 | RJ45 | Colour |
-| --- | ---- | ------ |
-| 1   | 7    | Orange |
-| 2   | 5    | Red    |
-| 3   | 4    | Green  |
-| 4   | 1    | White  |
-| 5   | 2    | Brown  |
-| 6   | 8    | Blue   |
-| 7   | 6    | Black  |
-| 8   | 3    | Yellow |
-| 9   | NC   | n/a    |
+| DB9 |	RJ45 | Colour |
+| --- | --- | --- |
+| 1 | 7 | Orange |
+| 2 | 5 | Red |
+| 3 | 4 | Green |
+| 4 | 1 | White |
+| 5 | 2 | Brown |
+| 6 | 8 | Blue |
+| 7 | 6 | Black |
+| 8 | 3 | Yellow |
+| 9 | NC | n/a |
 
 ---
 
@@ -93,11 +92,11 @@ In order to check the communication between de computer and the Tech2 the first 
 ## RJ45 Serial self test pin out
 
 | Terminal | Loopback terminal |
-| -------- | ----------------- |
-| 1        | 3                 |
-| 2        | 7                 |
-| 4        | 5                 |
-| 6        | 8                 |
+| --- | --- |
+| 1 | 3 |
+| 2 | 7 |
+| 4 | 5 |
+| 6 | 8 |
 
 ---
 

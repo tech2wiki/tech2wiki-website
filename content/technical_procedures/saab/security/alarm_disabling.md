@@ -1,7 +1,6 @@
 ---
 sort: 550
 ---
-
 # Alarm disabling
 
 ## Disabling the alarm (Saab 9-5, Saab 9-3 -2003)
@@ -12,18 +11,18 @@ When you disable the alarm system the car will think that no alarm is installed.
 
 ### Requirements
 
-- SAAB 9-5 MY98-10 or Saab 9-3 MY98-02 (& -03 CV)
-- Tech2 (CANDi module for SAAB 9-5 MY06 and newer)
-- SAAB 1XX.000 PCMCIA card
+* SAAB 9-5 MY98-10 or Saab 9-3 MY98-02 (& -03 CV)
+* Tech2 (CANDi module for SAAB 9-5 MY06 and newer)
+* SAAB 1XX.000 PCMCIA card
 
 ### Procedure
 
-- Select `F0`: Diagnostics
-- Select Model Year
-- Select `Saab 9-5` or `Saab 9-3`
-- Select `F3`: Body
-- Select `TWICE` (Theft Warning ICE)
-- Select `F3`: Adjustment
-- Select `Anti Theft Installation`
-- Press Change/Scroll until `Without Alarm` shows up as desired setting.
-- Press `OK` to disable the alarm.
+* Select `F0`: Diagnostics
+* Select Model Year
+* Select `Saab 9-5` or `Saab 9-3`
+* Select `F3`: Body
+* Select `TWICE` (Theft Warning ICE)
+* Select `F3`: Adjustment
+* Select `Anti Theft Installation`
+* Press Change/Scroll until `Without Alarm` shows up as desired setting.
+* Press `OK` to disable the alarm.

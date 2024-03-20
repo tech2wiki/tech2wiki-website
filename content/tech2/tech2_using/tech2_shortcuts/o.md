@@ -1,7 +1,6 @@
 ---
 sort: 2600
 ---
-
 # O
 
 O2S Heater Control – Powertrain > `Special Functions` > `Engine Output Controls`

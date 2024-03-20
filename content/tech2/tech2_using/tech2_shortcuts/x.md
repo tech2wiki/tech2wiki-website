@@ -1,7 +1,6 @@
 ---
 sort: 3400
 ---
-
 # X
 
 XM Software Version ID – Body > `Digital Radio Receiver` > `ID Information`
