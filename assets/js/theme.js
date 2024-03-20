@@ -63,8 +63,8 @@ function search(data) {
           `<p class="text-gray">${prefix}${slice(
             page.content,
             min,
-            max,
-          )}${suffix}</p>`,
+            max
+          )}${suffix}</p>`
         );
       }
       results.push(`<li class="border-top py-4">${result.join("")}</li>`);
@@ -73,7 +73,7 @@ function search(data) {
   if (results.length > 0 && text.length > 0) {
     $(".search-results .content").html(results.join(""));
     $(".search-results .summary").html(
-      ui.i18n.search_results_found.replace("#", results.length),
+      ui.i18n.search_results_found.replace("#", results.length)
     );
   } else {
     $(".search-results .content").empty();
@@ -128,7 +128,7 @@ function toc() {
           } else {
             stack.splice(
               0,
-              Math.min(temp - tagLevel, Math.max(stack.length - 1, 0)),
+              Math.min(temp - tagLevel, Math.max(stack.length - 1, 0))
             );
           }
           temp = tagLevel;
@@ -200,7 +200,7 @@ function highlight() {
 }
 
 $(window).bind("hashchange", () =>
-  initialize(location.hash || location.pathname),
+  initialize(location.hash || location.pathname)
 );
 
 $(document).on("scroll", function () {

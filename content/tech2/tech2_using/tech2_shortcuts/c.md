@@ -1,10 +1,9 @@
 ---
 sort: 1300
 ---
-
 # C
 
-## C/C
+## C/C 
 
 C/C Servo – Powertrain > `Special Functions` > `Engine Output Controls` > `Cruise Control`
 

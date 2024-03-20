@@ -1,7 +1,6 @@
 ---
 sort: 200
 ---
-
 # Connecting to a vehicle
 
 The Tech2 can be connected to a car using the supplied cable, and one of the adapters. The most common is the [http://odbii.com OBD-II] port, which also supplies battery power to the Tech2.
@@ -14,13 +13,13 @@ Cars with CANbus also require the CANdi module to be inserted in the cable inlin
 
 Tech2 with CANdi
 
-| Make | Model                             | Remarks                   |
-| ---- | --------------------------------- | ------------------------- |
-| SAAB | 9400 (900 94-98, 9-3 99-02 +03CV) | No CANdi support          |
-| SAAB | 9440 (9-3 Sport 03-)              | CANdi                     |
-| SAAB | 9600 (9-5 98-05)                  | No CANdi support          |
-| SAAB | 9600 (9-5 06-09)                  | CANdi                     |
-| SAAB | 9650 (9-5 10-12)                  | Not compatible with Tech2 |
+| Make | Model | Remarks |
+| --- | --- | --- |
+| SAAB | 9400 (900 94-98, 9-3 99-02 +03CV) | No CANdi support | 
+| SAAB | 9440 (9-3 Sport 03-) | CANdi |
+| SAAB | 9600 (9-5 98-05) | No CANdi support  |
+| SAAB | 9600 (9-5 06-09) | CANdi |
+| SAAB | 9650 (9-5 10-12) | Not compatible with Tech2 |
 
 ## Testing CANdi communication
 

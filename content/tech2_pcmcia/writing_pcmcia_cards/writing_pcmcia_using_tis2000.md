@@ -1,7 +1,6 @@
 ---
 sort: 200
 ---
-
 # Writing PCMCIA using TIS2000
 
 TIS2000 is a computer-based system used for reprogramming software as well as troubleshouting and diagnostics on vehicle control units. The system requires a hand-held, programmable diagnostic tool, Tech2, in order to communicate with the vehicle.
@@ -12,12 +11,12 @@ TIS2000 can be used to download new software to your PCMCIA card used in the Tec
 
 ## Requirements
 
-- Tech2
-- 12V DC adapter as power source for the Tech2
-- PCMCIA card inserted to Tech2
-- COM port, this can be a physical DB9 or a USB to Serial cable, on a desktop/laptop computer.
-- Microsoft Windows
-- TIS2000
+*   Tech2
+*   12V DC adapter as power source for the Tech2
+*   PCMCIA card inserted to Tech2
+*   COM port, this can be a physical DB9 or a USB to Serial cable, on a desktop/laptop computer.
+*   Microsoft Windows
+*   TIS2000
 
 ## Preparations
 
@@ -34,16 +33,16 @@ Start TIS2000.
 
 On the start screen of TIS2000, click on `Software Download`.
 
-**Note:** The start screen of TIS2000 may look different depending on the version you are running.
+__Note:__ The start screen of TIS2000 may look different depending on the version you are running.
 
 ![](write_tis2000_01.webp)
 
 In the next step you will be prompted to select the diagnostic tool and update mode you want to use. For update mode you have two options to choose between;
 
-- Standard
-  - TIS2000 will check the current software on your PCMCIA card and then download the latest version, if any newer version is available.
-- Custom
-  - Enables to select the version you want and also the language.
+*   Standard
+    *   TIS2000 will check the current software on your PCMCIA card and then download the latest version, if any newer version is available.
+*   Custom
+    *    Enables to select the version you want and also the language.
 
 Select `Custom` and press `Next`.
 

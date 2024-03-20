@@ -10,11 +10,11 @@ If you have a Saab 9-3 with model year 2003 or newer and don’t have front fog 
 
 ## Requirements
 
-- SAAB 9-3 MY03-
-- SAAB Fog Light Kit (OEM 12787092 / 32026003)
-- Tech2 with CANDi module
-- Security Access
-- SAAB 1XX.000 PCMCIA card
+* SAAB 9-3 MY03-
+* SAAB Fog Light Kit (OEM 12787092 / 32026003)
+* Tech2 with CANDi module
+* Security Access
+* SAAB 1XX.000 PCMCIA card
 
 ## Preparations
 
@@ -26,12 +26,12 @@ To activate this function you will need security access which can be downloaded 
 
 ## Procedure
 
-- Select `F0`: Diagnostics
-- Select Model Year
-- Select `Saab 9-3 Sport (9440)`
-- Select `F4`: All
-- Select `F7`: Add/Remove
-- Select `F3`: Accessories
-- Select `Fog Lights`
-- Select `Add` (If you haven’t downloaded security access from TIS yet, the Tech2 will prompt you to do)
-- Exit out of the Tech2, cycle the key OFF and back ON and the function should now be enabled.
+* Select `F0`: Diagnostics
+* Select Model Year
+* Select `Saab 9-3 Sport (9440)`
+* Select `F4`: All
+* Select `F7`: Add/Remove
+* Select `F3`: Accessories
+* Select `Fog Lights`
+* Select `Add` (If you haven’t downloaded security access from TIS yet, the Tech2 will prompt you to do)
+* Exit out of the Tech2, cycle the key OFF and back ON and the function should now be enabled.
