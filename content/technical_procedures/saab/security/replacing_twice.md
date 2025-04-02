@@ -25,7 +25,7 @@ The writer is a SAAB enthusiast trying to help out other SAAB owners by describi
 In order to deal with the situation for a SAAB 9-5 MY98-2010, following parts and equipment should be present:
 
 * Original key belonging to the car. It is assumed that the user of this tutorial is the owner of the car or is working on the car on behalf of the owner.
-* Tech2 device (thanks for your support Berry and other fellow SAAB enthusiasts!)
+* Tech2 device
 * New or alternative replacement TWICE unit with same part number
 * Key with transponder (incl. ‘banana’) which should already be married to the replacement TWICE unit from the donor car. If you don’t have this married key, further work is useless I was informed by a SAAB specialist.
 
