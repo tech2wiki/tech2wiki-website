@@ -57,5 +57,3 @@ While using the (SAAB 148.000 .bin file)[/content/which_.bin-files_are_available
 Now the Tech2 should respond with the following: `RS-232 Test: Passed`
 
 If the Tech2 responds with RS-232 Test: `LoopBack Not Connected` or `ADDRESS ERROR - PROCESSOR HALT` the chances are high that the MAX202 or the MAX232 is borked, which means replacing the SMD mountec RS-232 communications chip (SOIC type), noted as U202 on the main PCB.
-
-Reference: [The three dudes and their cars…](https://dudes.berrydejager.com/tech2-rs-232-loopback-not-connected)

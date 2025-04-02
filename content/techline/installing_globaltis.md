@@ -18,7 +18,7 @@ GlobalTIS is the predecessor of the TIS2000 software. This software can be used 
 
 ## Recommended software setup
 
-* [Windows 7 - 32 bits](https://github.com/berrydejager/tech2wiki.com/tree/5c6126543ffdd2a7aa2e748039ff9df1a6bb3d31/www.microsoft.com)
+* [Windows 7 - 32 bits](https://www.microsoft.com)
 * GlobalTIS 2011 / 148
 * [Ninite installer](https://ninite.com/)
   * [7-Zip](https://www.7-zip.org/)
