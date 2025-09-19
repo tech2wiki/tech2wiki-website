@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Just another documentation theme compatible with GitHub Pages"
   spec.license       = "MIT"
-  spec.homepage      = "https://github.com/rundocs/jekyll-rtd-theme"
+  spec.homepage      = "https://github.com/clearpathrobotics/jekyll-rtd-theme"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
 
