@@ -1,6 +1,9 @@
+$LOAD_PATH.unshift File.expand_path("lib", __dir__)
+require "jekyll-remote-theme/version"
+
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-rtd-theme"
-  spec.version       = "3.9.3"
+  spec.version       = Jekyll::RemoteTheme::VERSION
   spec.authors       = ["saowang"]
   spec.email         = ["saowang@outlook.com"]
 
